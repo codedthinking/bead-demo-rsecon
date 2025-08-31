@@ -21,9 +21,8 @@ temp/
 *_cache/
 *_files/
 
-# Generated files
+# Generated files  
 README.tex
-README.pdf
 
 # OS files
 .DS_Store

@@ -5,7 +5,7 @@ author:
 authors:
 - Krisztián Fekete
 - Miklós Koren
-date: Invalid Date
+date: 2025-09-10
 subtitle: a provenance tool
 title: bead
 toc-title: Table of contents
@@ -3940,14 +3940,6 @@ bead save figure1-v2
 pip install bead
 ```
 
-### Documentation
-
-[bead.zip](https://bead.zip)
-
-### Source Code
-
-[github.com/e3krisztian/bead](https://github.com/e3krisztian/bead)
-
 ## Key Takeaways
 
 1.  **Data provenance is hard** - especially with changing teams
@@ -3955,17 +3947,19 @@ pip install bead
 3.  **bead keeps it simple** - focuses on one thing well
 4.  **Reproducibility becomes automatic** - not an afterthought
 
-## Thank You!
-
-Questions?
-
-### Contact
+### Contact and Acknowledgements
 
 -   Web: [bead.zip](https://bead.zip)
 -   GitHub:
     [github.com/e3krisztian/bead](https://github.com/e3krisztian/bead)
 
 ![](images/erc-logo.png){width="20%"}
+
+This project has received funding from the European Research Council
+(ERC) under the European Union's Horizon 2020 research and innovation
+programme (grant agreement No 313164). The views expressed are those of
+the authors and do not necessarily reflect those of the ERC or the
+European Commission.
 
 ## References
 

@@ -4,7 +4,7 @@ subtitle: a provenance tool
 author:
     - "Krisztián Fekete"
     - "Miklós Koren"
-date: RSEcon, September 10, 2025^[This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No 313164). The views expressed are those of the authors and do not necessarily reflect those of the ERC or the European Commission.]
+date: 2025-09-10
 format:
   revealjs:
     include-after-body:
