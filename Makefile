@@ -2,7 +2,7 @@
 
 all: demo.html README.pdf
 
-demo.html: demo.qmd
+demo.html: demo.qmd miklos1.md miklos2.md scroll.html
 	quarto render demo.qmd
 
 README.pdf: README.md preamble-slides.tex
