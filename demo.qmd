@@ -13,6 +13,9 @@ format:
     slide-number: true
 slide-level: 3
 ---
+
+{{< include miklos1.md >}}
+
 ::: {.cell}
 <style>
 .top-bottom-layout {
@@ -3809,6 +3812,8 @@ EOF</span>
   </div>
 </div>
 ```
+
+{{< include miklos2.md >}}
 
 
 ## 📌 Funny AI Note
