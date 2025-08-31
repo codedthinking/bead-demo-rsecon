@@ -16,30 +16,6 @@
 - Some steps outdated
 - bead tracks entire dependency graph
 
-## bead in Practice
-
-### Step 1: Create workspace
-```bash
-bead new health-analysis
-```
-
-### Step 2: Load inputs
-```bash
-bead input add wdi-data
-bead input add health-metrics
-```
-
-### Step 3: Run analysis
-```bash
-python clean_data.py
-R --file=analyze.R
-```
-
-### Step 4: Save snapshot
-```bash
-bead save figure1-v2
-```
-
 ## Why bead is Different
 
 - **Simple**: 4 commands to learn
