@@ -1,5 +1,5 @@
 
-## The Editor Says You Have One Week
+## The Editor Gives You One Week
 You need to:
 
 1. Address reviewer concerns about source data
@@ -7,13 +7,13 @@ You need to:
 3. Recreate Figure 1
 4. Submit within one week
 
-## But Your Submission is Months Old
+## But the Submission Was Months Ago
 
 - Research submitted months ago
 - Team has been improving data cleaning since then
     - Some team members left
 - Different statistical methods now
-- **First question**: How did I actually produce Figure 1?
+- **First question**: How _exactly_ was Figure 1 produced?
 
 ## Research Results are Functions
 
@@ -28,7 +28,7 @@ $$\text{Figure 1} = \text{code}(\text{data})$$
 
 $$\text{data}_1 = \text{code}_2(\text{data}_2)$$
 
-- Data produced by wrangling/cleaning steps
+- Data transformed by wrangling/cleaning steps
     - countries dropped
     - transformations applied
     - feature engineering details
@@ -67,11 +67,11 @@ $$\text{data}_1 = \text{code}_2(\text{data}_2)$$
 
 ## Enter bead
 
-**A command-line tool that ensures your output is a function of your input**
+**A command-line tool that captures your data’s story, step by step.**
 
 - Much simpler than alternatives
 - Language agnostic
-- Works with heterogeneous teams
+- Supports heterogeneous teams
 
 ## What bead Does NOT Do
 
@@ -90,8 +90,8 @@ $$\text{data}_1 = \text{code}_2(\text{data}_2)$$
 ## Core bead Concepts
 
 ### The bead
-- Self-contained computational unit
-- Contains code, data, results
+- Self-contained unit of computation
+- Contains code, _reference_ to input data, results
 - Packaged as ZIP file
 - Remembers exact provenance
 
