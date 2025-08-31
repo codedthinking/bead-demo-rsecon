@@ -102,8 +102,5 @@ bead input add source-data
 bead save 
 ```
 
-## Demo Time
-
-Let's see bead in action with a real example...
-
+# Demo Time
 

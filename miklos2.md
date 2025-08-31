@@ -1,43 +1,25 @@
-## How bead Solves Our Problems
+# Case Study From Our Research Lab
+## Case Study From Our Research Lab
+- Used since 2017 in our research groups: CEU MicroData, MACROMANAGERS.eu 
+    - internally
+    - when sharing data with others
+- Saved about 600+ beads, two versions on average
+- Interquartile range of bead sizes: 10 to 500 MB, largest is 23 GB
+- Median time between saving new versions: 51 days
 
-| Problem | bead Solution |
-|---------|---------------|
-| "What data did we use?" | Every bead remembers exact version |
-| "It worked on my machine" | Exact same setup for everyone |
-| "That person left" | Work stays reproducible |
-| Team uses different tools | Language agnostic |
-| Complex pipelines | Chain beads together |
+## Practices We Adopted
+- _Everything_ is a bead: raw data, intermediate data, analysis sample, research results
+- Never load data directly, from outside a bead
+    - Side product: always use relative paths
+- We don't often recompute everything, but good to know we _could_
 
-## Real Research Example
-
-- Multiple datasets connected
-- Many cleaning steps
-- Green = using latest data version
-- Some steps outdated
-- bead tracks entire dependency graph
-
-## Why bead is Different
-
-- **Simple**: 4 commands to learn
-- **Universal**: Any language, any tool
-- **Portable**: Just ZIP files
-- **Secure**: Data stays on your servers
-- **Transparent**: Open source, no vendor lock-in
-
-## For Research Software Engineers
+## Lessons For Research Software Engineers
 
 - Minimal learning curve for researchers
 - No infrastructure requirements
 - Works with existing workflows
 - Complements version control
 - Enables true reproducibility
-
-## Get Started
-
-### Installation
-```bash
-pip install bead
-```
 
 ## Key Takeaways
 
@@ -48,6 +30,7 @@ pip install bead
 
 ### Contact and Acknowledgements
 - Web: [bead.zip](https://bead.zip)
+- Installation: [https://bead.zip/install](https://bead.zip/install)
 - GitHub: [github.com/e3krisztian/bead](https://github.com/e3krisztian/bead)
 
 
