@@ -26,16 +26,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Install Python 3
+      - name: Install make
         run: |
           apt-get update
-          apt-get install -y python3 python3-pip python3-venv make
-      
-      - name: Install dependencies
-        run: make install
+          apt-get install -y make
       
       - name: Build HTML
-        run: make 39-bead-min.html
+        run: make 39-bead.html
       
       - name: Setup Pages
         uses: actions/configure-pages@v4

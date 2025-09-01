@@ -1,18 +1,6 @@
-.PHONY: all clean install
+.PHONY: all clean
 
-# Python virtual environment
-VENV = .venv
-PYTHON = $(VENV)/bin/python
-HTMLMIN = $(VENV)/bin/htmlmin
-
-all: 39-bead-min.html README.pdf
-
-install:
-	python3 -m venv $(VENV)
-	$(PYTHON) -m pip install -r requirements.txt
-
-%-min.html: %.html
-	$(HTMLMIN) $< $@
+all: 39-bead.html README.pdf
 
 39-bead.html: 39-bead.qmd miklos1.md krisztian.qmd miklos2.md terminal.html
 	quarto render 39-bead.qmd
