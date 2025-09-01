@@ -1,8 +1,10 @@
 .PHONY: all clean
 
+IMAGES := $(wildcard images/*.png)
+
 all: 39-bead.html README.pdf
 
-39-bead.html: 39-bead.qmd miklos1.md krisztian.qmd miklos2.md terminal.html
+39-bead.html: 39-bead.qmd miklos1.md krisztian.qmd miklos2.md terminal.html $(IMAGES)
 	quarto render 39-bead.qmd
 
 README.pdf: README.md preamble-slides.tex
