@@ -1,6 +1,9 @@
 .PHONY: all clean
 
-all: 39-bead.html README.pdf
+all: 39-bead-min.html README.pdf
+
+%-min.html: %.html
+	htmlmin $< $@
 
 39-bead.html: 39-bead.qmd miklos1.md krisztian.qmd miklos2.md terminal.html
 	quarto render 39-bead.qmd
