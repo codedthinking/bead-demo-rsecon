@@ -40,8 +40,8 @@ cd /demo/workspace
 mkdir /demo/bead-box
 bead box add demo /demo/bead-box
 bead box list
+clear
 
-#:cls
 : 📁 First bead
 bead new sessions
 cd sessions
@@ -50,8 +50,8 @@ csvlook output/sessions.csv
 bead save
 bead discard
 cd ..
+clear
 
-#:cls
 : 📁 Second bead
 bead new theme-aliases
 cd theme-aliases
@@ -60,32 +60,33 @@ csvlook output/theme_aliases.csv
 bead save
 bead discard
 cd ..
+clear
 
-#:cls
 : 🔗 Computation
 bead new classifier
 cd classifier
 bead input add sessions
 bead input add theme-aliases
 cp -v /demo/files/run.sh .
-cat run.sh
+nl run.sh
 bash run.sh
 csvlook output/classified_sessions.csv
 cowsay -f hellokitty "Diana did not get a theme"
 bead save
 bead discard
 cd ..
+clear
 
-#:cls
 : New version of theme-aliases bead.
 bead edit theme-aliases --review
 cd theme-aliases
 cat /demo/files/more_theme_aliases.csv | tee -a output/theme_aliases.csv
+: Diana - "Team Building Workshop"
 bead save
 bead discard
 cd ..
+clear
 
-#:cls
 : Use the improved input to re-classify sessions
 bead edit classifier
 cd classifier
@@ -98,8 +99,8 @@ csvlook output/classified_sessions.csv
 : ✨ Updated!
 bead discard
 cd ..
+clear
 
-#:cls
 : 🖼️ Visual Overview
 rm /demo/bead-box/sessions*
 bead box sync
@@ -108,7 +109,6 @@ bead web color svg session-themes.svg
 ## session-themes.svg
 #:![](images/session-themes.svg)
 
-#:cls
 : ⚙️ Internals
 unzip -v /demo/bead-box/classifier_*.zip | tail -8
 : end of demo
