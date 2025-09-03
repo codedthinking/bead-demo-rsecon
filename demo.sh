@@ -25,7 +25,9 @@
 #:
 #: - list of sessions extended with theme
 
-## ⚙️ Setup
+: ⚙️ Setup
+: prepared files
+tree /demo
 : workspace - where we work
 mkdir /demo/workspace
 cd /demo/workspace
@@ -34,114 +36,104 @@ mkdir /demo/bead-box
 bead box add demo /demo/bead-box
 bead box list
 
-## 📁 First bead
+#:cls
+: 📁 First bead
 bead new sessions
 cd sessions
-cat > output/sessions.csv <<EOF
-title,speaker
-AI in Healthcare,Alice
-Blockchain for Banking,Bob
-Solar Panel Efficiency,Charlie
-Team Building Workshop,Diana
-EOF
-bead save
-bead discard
-cd ..
-: quick look into the created archive
-unzip -p /demo/bead-box/sessions_*.zip data/* | csvlook -
-## 📁 Second bead
-bead new theme-aliases
-cd theme-aliases
-cat > output/theme_aliases.csv <<EOF
-alias,canonical_theme
-ai,artificial intelligence
-blockchain,blockchain
-solar,sustainability
-EOF
+cp -v /demo/files/sessions.csv output
+csvlook output/sessions.csv
 bead save
 bead discard
 cd ..
 
-## 🔗 Composition
+#:cls
+: 📁 Second bead
+bead new theme-aliases
+cd theme-aliases
+cp -v /demo/files/theme_aliases.csv output
+csvlook output/theme_aliases.csv
+bead save
+bead discard
+cd ..
+
+#:cls
+: 🔗 Computation
 bead new classifier
 cd classifier
 bead input add sessions
 bead input add theme-aliases
-cat > run.sh <<EOF
-duckdb <<SQL
-CREATE TABLE sessions AS SELECT * FROM 'input/sessions/sessions.csv';
-CREATE TABLE aliases AS SELECT * FROM 'input/theme-aliases/theme_aliases.csv';
-
-COPY (
-  SELECT s.*, a.canonical_theme as theme
-  FROM sessions s
-  LEFT JOIN aliases a ON lower(s.title) LIKE '%' || lower(a.alias) || '%'
-) TO 'output/classified_sessions.csv';
-SQL
-EOF
+cp -v /demo/files/run.sh .
+cat run.sh
 bash run.sh
-bead save
 csvlook output/classified_sessions.csv
+cowsay -f hellokitty "Diana did not get a theme"
+bead save
 bead discard
 cd ..
 
-## ✨ Automatic Updates
-: Create an improved version of the theme-aliases bead.
+#:cls
+: New version of theme-aliases bead.
 bead edit theme-aliases --review
 cd theme-aliases
-cat >> output/theme_aliases.csv <<EOF
-team,collaboration
-workshop,collaboration
-healthcare,healthcare
-EOF
+cat /demo/files/more_theme_aliases.csv | tee -a output/theme_aliases.csv
 bead save
 bead discard
 cd ..
+
 #:cls
-: Use the improved input to re-classify
+: Use the improved input to re-classify sessions
 bead edit classifier
 cd classifier
 cat run.sh
+bead status
 bead input load
 bead input update theme-aliases
 bash run.sh
-bead save
 csvlook output/classified_sessions.csv
+: ✨ Updated!
 bead discard
 cd ..
 
-# 🖼️ Visual Wrap-up
-rm /demo/bead-box/theme-aliases*
+#:cls
+: 🖼️ Visual Overview
+rm /demo/bead-box/sessions*
 bead box sync
-bead web png session-themes.png
+bead web color svg session-themes.svg
 
-#
-#:![session-themes.png](images/session-themes.png)
+## session-themes.svg
+#:![](images/session-themes.svg)
 
-# ⚙️ Internal Details
-unzip -v /demo/bead-box/sessions_*.zip | tail -9
+#:cls
+: ⚙️ Internals
+unzip -v /demo/bead-box/classifier_*.zip | tail -8
 bead new internals
 cd internals
 bead input add classifier
 cat .bead-meta/bead
 bead discard
+cd ..
+: end of demo
 
 # 🧩 Similar ideas
-
-#:- kaggle notebook
-#:   - https://www.kaggle.com/code#:~:text=New,-Notebook
-#:- nix flake
-#:   - https://nixos.wiki/wiki/Flakes#Flake_schema
-#:- orderly2 (RSECON24 talk)
-#:   - https://youtu.be/lkPgihFQbrk
-
+#:+---------------------------------------------------------+--------------------------------------------:+
+#:| - kaggle notebook                                       |                                             |
+#:|   <https://www.kaggle.com/code>                         | ![](images/kaggle-notebook.svg){width=200}  |
+#:+---------------------------------------------------------+---------------------------------------------+
+#:| - nix flake                                             |                                             |
+#:|   <https://nixos.wiki/wiki/Flakes#Flake_schema>         | ![](images/nix-flakes.svg){width=200}       |
+#:+---------------------------------------------------------+---------------------------------------------+
+#:| - orderly2 (RSECON24 talk)                              |                                             |
+#:|   <https://youtu.be/lkPgihFQbrk>                        | ![](images/orderly2.svg){width=200}         |
+#:+---------------------------------------------------------+---------------------------------------------+
+#:: {.hover tbl-colwidths="[75,25]"}
 
 # 🐙 Source
-#:<style>
-#:#qrgithub {
-#:  position: absolute;
-#:  top: 0;
-#:  right: 50%;
-#:}
-#:</style>
-#:https://github.com/e3krisztian/bead {{< qrcode https://github.com/e3krisztian/bead qrgithub width=300 height=300 >}}
+#::::: {.columns}
+#:::: {.column width="70%"}
+#:<br><br><br>
+#:<https://github.com/e3krisztian/bead>
+#::::
+#:::: {.column width="30%"}
+#:![](images/e3krisztian-bead.svg){width=300}
+#::::
+#:::::
