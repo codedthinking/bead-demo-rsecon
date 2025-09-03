@@ -17,7 +17,9 @@ You need to:
 
 ## Research Results are Functions
 
-$$\text{Figure 1} = \text{code}(\text{data})$$
+:::{.center}
+`Figure 1 = code(data)`
+:::
 
 - Results depend on both algorithms and data
 - Code under version control (Git) ✓
@@ -26,7 +28,14 @@ $$\text{Figure 1} = \text{code}(\text{data})$$
 
 ## Data is Also a Function
 
-$$\text{data}_1 = \text{code}_2(\text{data}_2)$$
+:::{.center}
+`data₁ = code₂(data₂)`
+:::
+
+```text
+data₁ = code₂(data₂)
+```
+
 
 - Data transformed by wrangling/cleaning steps
     - countries dropped
