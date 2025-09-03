@@ -17,7 +17,7 @@ You need to:
 
 ## Research Results are Functions
 
-:::
+:::{.center}
 `Figure 1 = code(data)`
 :::
 
@@ -28,7 +28,7 @@ You need to:
 
 ## Data is Also a Function
 
-:::    
+:::{.center}
 `data₁ = code₂(data₂)`
 :::
 
