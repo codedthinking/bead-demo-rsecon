@@ -1,30 +1,35 @@
 
+## 📐 Design
+- Reproducibility
+- Integrity
+- Ease of use
+- Local first
+- Task scope
+- Allow updates
+  - input changes
+  - code changes
+
 ## ⚡ Inspiration
 - Data Journalism
 - Human concept of story
-  - Characters, setting, events, theme or message
-  - Variable scope
   - Stories are composable
-  - Helps us to make sense of the world
-
-## 📐 Design
-- ISBN / ISSN
-  - Identification of books and series with code
-- Task scope
-- Local first
-- Integrity
+  - Helps us make sense of the world
+- Project
+- Publishing: ISBN / ISSN
 
 ## 🎬 Demo
+
 Conference session classification by title
 
-Inputs:
+- Inputs:
 
-- list of sessions
-- session theme classification rules
+  - list of sessions
+  - session theme classification rules
 
-Output:
+- Output:
 
- - list of sessions extended with theme
+  - list of sessions extended with theme
+
 
 ### {.top}
 
@@ -227,7 +232,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span><span class="cursor"></span></div>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span><span class="cursor"></span></div>
   </div>
 
   <div class="bottom-content">
@@ -262,7 +267,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="cursor"></span></div>
   </div>
 
@@ -298,7 +303,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span><span class="cursor"></span></div>
   </div>
 
@@ -334,7 +339,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span>
 <span class="prompt">/demo $ </span><span class="cursor"></span></div>
   </div>
@@ -371,7 +376,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span>
 <span class="prompt">/demo $ </span><span class="command">cd /demo/workspace</span><span class="cursor"></span></div>
   </div>
@@ -408,7 +413,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span>
 <span class="prompt">/demo $ </span><span class="command">cd /demo/workspace</span>
 <span class="prompt">/demo/workspace $ </span><span class="cursor"></span></div>
@@ -446,7 +451,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span>
 <span class="prompt">/demo $ </span><span class="command">cd /demo/workspace</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">: box - storage for beads</span><span class="cursor"></span></div>
@@ -484,7 +489,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span>
 <span class="prompt">/demo $ </span><span class="command">cd /demo/workspace</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">: box - storage for beads</span>
@@ -523,7 +528,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span>
 <span class="prompt">/demo $ </span><span class="command">cd /demo/workspace</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">: box - storage for beads</span>
@@ -562,7 +567,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span>
 <span class="prompt">/demo $ </span><span class="command">cd /demo/workspace</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">: box - storage for beads</span>
@@ -602,7 +607,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span>
 <span class="prompt">/demo $ </span><span class="command">cd /demo/workspace</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">: box - storage for beads</span>
@@ -642,7 +647,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span>
 <span class="prompt">/demo $ </span><span class="command">cd /demo/workspace</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">: box - storage for beads</span>
@@ -684,7 +689,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span>
 <span class="prompt">/demo $ </span><span class="command">cd /demo/workspace</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">: box - storage for beads</span>
@@ -726,7 +731,7 @@ Output:
     └── theme_aliases.csv
 
 2 directories, 4 files
-</span><span class="prompt">/demo $ </span><span class="command">: workspace - where we work</span>
+</span><span class="prompt">/demo $ </span><span class="command">: workspace</span>
 <span class="prompt">/demo $ </span><span class="command">mkdir /demo/workspace</span>
 <span class="prompt">/demo $ </span><span class="command">cd /demo/workspace</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">: box - storage for beads</span>
@@ -1153,7 +1158,7 @@ demo: /demo/bead-box
 | Solar Panel Efficiency | Charlie |
 | Team Building Workshop | Diana   |
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420887198+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420947516+0000.zip.
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="cursor"></span></div>
   </div>
 
@@ -1171,7 +1176,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1198,7 +1203,7 @@ demo: /demo/bead-box
 | Solar Panel Efficiency | Charlie |
 | Team Building Workshop | Diana   |
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420887198+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420947516+0000.zip.
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="command">bead discard</span><span class="cursor"></span></div>
   </div>
 
@@ -1216,7 +1221,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1243,7 +1248,7 @@ demo: /demo/bead-box
 | Solar Panel Efficiency | Charlie |
 | Team Building Workshop | Diana   |
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420887198+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420947516+0000.zip.
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/sessions
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="cursor"></span></div>
@@ -1258,7 +1263,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1285,7 +1290,7 @@ demo: /demo/bead-box
 | Solar Panel Efficiency | Charlie |
 | Team Building Workshop | Diana   |
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420887198+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420947516+0000.zip.
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/sessions
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="command">cd ..</span><span class="cursor"></span></div>
@@ -1300,7 +1305,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1327,7 +1332,7 @@ demo: /demo/bead-box
 | Solar Panel Efficiency | Charlie |
 | Team Building Workshop | Diana   |
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420887198+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420947516+0000.zip.
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/sessions
 </span><span class="prompt">/demo/workspace/sessions $ </span><span class="command">cd ..</span>
@@ -1343,7 +1348,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1368,7 +1373,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1393,7 +1398,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1419,7 +1424,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1445,7 +1450,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1477,7 +1482,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1509,7 +1514,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1542,7 +1547,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1575,7 +1580,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1611,7 +1616,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1647,7 +1652,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1689,7 +1694,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1731,7 +1736,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420887198+0000.zip
+└── sessions_20250910T150420947516+0000.zip
 </pre>
     </div>
   </div>
@@ -1757,7 +1762,7 @@ demo: /demo/bead-box
 | blockchain | blockchain              |
 | solar      | sustainability          |
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip.
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="cursor"></span></div>
   </div>
 
@@ -1775,8 +1780,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -1802,7 +1807,7 @@ demo: /demo/bead-box
 | blockchain | blockchain              |
 | solar      | sustainability          |
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip.
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead discard</span><span class="cursor"></span></div>
   </div>
 
@@ -1820,8 +1825,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -1847,7 +1852,7 @@ demo: /demo/bead-box
 | blockchain | blockchain              |
 | solar      | sustainability          |
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip.
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="cursor"></span></div>
@@ -1862,8 +1867,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -1889,7 +1894,7 @@ demo: /demo/bead-box
 | blockchain | blockchain              |
 | solar      | sustainability          |
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip.
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cd ..</span><span class="cursor"></span></div>
@@ -1904,8 +1909,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -1931,7 +1936,7 @@ demo: /demo/bead-box
 | blockchain | blockchain              |
 | solar      | sustainability          |
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip.
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cd ..</span>
@@ -1947,8 +1952,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -1973,8 +1978,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -1999,8 +2004,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2026,8 +2031,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2053,8 +2058,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2086,8 +2091,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2119,8 +2124,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2153,8 +2158,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2187,8 +2192,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2206,7 +2211,7 @@ demo: /demo/bead-box
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="cursor"></span></div>
   </div>
@@ -2226,8 +2231,8 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2245,7 +2250,7 @@ Loading new data to sessions ... Done
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span><span class="cursor"></span></div>
   </div>
@@ -2265,8 +2270,8 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2284,10 +2289,10 @@ Loading new data to sessions ... Done
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="cursor"></span></div>
   </div>
@@ -2309,8 +2314,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2328,10 +2333,10 @@ Loading new data to theme-aliases ... Done
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span><span class="cursor"></span></div>
   </div>
@@ -2353,8 +2358,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2372,10 +2377,10 @@ Loading new data to theme-aliases ... Done
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -2400,8 +2405,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2419,10 +2424,10 @@ Loading new data to theme-aliases ... Done
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -2447,8 +2452,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2466,10 +2471,10 @@ Loading new data to theme-aliases ... Done
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -2508,8 +2513,8 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2527,10 +2532,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -2569,8 +2574,8 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2588,10 +2593,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -2632,8 +2637,8 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2651,10 +2656,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -2695,8 +2700,8 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2714,10 +2719,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -2765,8 +2770,8 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2784,10 +2789,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -2835,8 +2840,8 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2854,10 +2859,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -2915,8 +2920,8 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -2934,10 +2939,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -2995,8 +3000,8 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3014,10 +3019,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -3054,7 +3059,7 @@ SQL
      | O . O|
       \_____/
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/classifier_20250910T151000492972+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/classifier_20250910T151000554372+0000.zip.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="cursor"></span></div>
   </div>
 
@@ -3077,9 +3082,9 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3097,10 +3102,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -3137,7 +3142,7 @@ SQL
      | O . O|
       \_____/
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/classifier_20250910T151000492972+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/classifier_20250910T151000554372+0000.zip.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead discard</span><span class="cursor"></span></div>
   </div>
 
@@ -3160,9 +3165,9 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3180,10 +3185,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -3220,7 +3225,7 @@ SQL
      | O . O|
       \_____/
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/classifier_20250910T151000492972+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/classifier_20250910T151000554372+0000.zip.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/classifier
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="cursor"></span></div>
@@ -3235,9 +3240,9 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3255,10 +3260,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -3295,7 +3300,7 @@ SQL
      | O . O|
       \_____/
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/classifier_20250910T151000492972+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/classifier_20250910T151000554372+0000.zip.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/classifier
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cd ..</span><span class="cursor"></span></div>
@@ -3310,9 +3315,9 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3330,10 +3335,10 @@ SQL
 <span class="output">Created workspace &quot;classifier&quot;
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
 <span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cp -v /demo/files/run.sh .</span>
 <span class="output">&#x27;/demo/files/run.sh&#x27; -&gt; &#x27;./run.sh&#x27;
@@ -3370,7 +3375,7 @@ SQL
      | O . O|
       \_____/
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/classifier_20250910T151000492972+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/classifier_20250910T151000554372+0000.zip.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/classifier
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">cd ..</span>
@@ -3386,9 +3391,9 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3413,9 +3418,9 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3440,9 +3445,9 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3468,9 +3473,9 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3496,9 +3501,9 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3513,7 +3518,7 @@ SQL
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Extracted source into /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace $ </span><span class="cursor"></span></div>
   </div>
@@ -3532,9 +3537,9 @@ Extracted source into /demo/workspace/theme-aliases
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3549,7 +3554,7 @@ Extracted source into /demo/workspace/theme-aliases
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Extracted source into /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd theme-aliases</span><span class="cursor"></span></div>
   </div>
@@ -3568,9 +3573,9 @@ Extracted source into /demo/workspace/theme-aliases
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3585,7 +3590,7 @@ Extracted source into /demo/workspace/theme-aliases
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Extracted source into /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd theme-aliases</span>
 <span class="prompt">/demo/workspace/theme-aliases $ </span><span class="cursor"></span></div>
@@ -3605,9 +3610,9 @@ Extracted source into /demo/workspace/theme-aliases
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3622,7 +3627,7 @@ Extracted source into /demo/workspace/theme-aliases
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Extracted source into /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd theme-aliases</span>
 <span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cat /demo/files/more_theme_aliases.csv | tee -a output/theme_aliases.csv</span><span class="cursor"></span></div>
@@ -3642,9 +3647,9 @@ Extracted source into /demo/workspace/theme-aliases
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3659,7 +3664,7 @@ Extracted source into /demo/workspace/theme-aliases
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Extracted source into /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd theme-aliases</span>
 <span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cat /demo/files/more_theme_aliases.csv | tee -a output/theme_aliases.csv</span>
@@ -3683,9 +3688,9 @@ healthcare,healthcare
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3700,7 +3705,7 @@ healthcare,healthcare
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Extracted source into /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd theme-aliases</span>
 <span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cat /demo/files/more_theme_aliases.csv | tee -a output/theme_aliases.csv</span>
@@ -3724,9 +3729,9 @@ healthcare,healthcare
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-└── theme-aliases_20250910T150620504054+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+└── theme-aliases_20250910T150620566321+0000.zip
 </pre>
     </div>
   </div>
@@ -3741,7 +3746,7 @@ healthcare,healthcare
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Extracted source into /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd theme-aliases</span>
 <span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cat /demo/files/more_theme_aliases.csv | tee -a output/theme_aliases.csv</span>
@@ -3749,7 +3754,7 @@ Extracted source into /demo/workspace/theme-aliases
 workshop,collaboration
 healthcare,healthcare
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip.
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="cursor"></span></div>
   </div>
 
@@ -3767,10 +3772,10 @@ healthcare,healthcare
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -3785,7 +3790,7 @@ healthcare,healthcare
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Extracted source into /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd theme-aliases</span>
 <span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cat /demo/files/more_theme_aliases.csv | tee -a output/theme_aliases.csv</span>
@@ -3793,7 +3798,7 @@ Extracted source into /demo/workspace/theme-aliases
 workshop,collaboration
 healthcare,healthcare
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip.
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead discard</span><span class="cursor"></span></div>
   </div>
 
@@ -3811,10 +3816,10 @@ healthcare,healthcare
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -3829,7 +3834,7 @@ healthcare,healthcare
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Extracted source into /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd theme-aliases</span>
 <span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cat /demo/files/more_theme_aliases.csv | tee -a output/theme_aliases.csv</span>
@@ -3837,7 +3842,7 @@ Extracted source into /demo/workspace/theme-aliases
 workshop,collaboration
 healthcare,healthcare
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip.
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="cursor"></span></div>
@@ -3852,10 +3857,10 @@ healthcare,healthcare
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -3870,7 +3875,7 @@ healthcare,healthcare
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Extracted source into /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd theme-aliases</span>
 <span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cat /demo/files/more_theme_aliases.csv | tee -a output/theme_aliases.csv</span>
@@ -3878,7 +3883,7 @@ Extracted source into /demo/workspace/theme-aliases
 workshop,collaboration
 healthcare,healthcare
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip.
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cd ..</span><span class="cursor"></span></div>
@@ -3893,10 +3898,10 @@ healthcare,healthcare
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -3911,7 +3916,7 @@ healthcare,healthcare
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Extracted source into /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd theme-aliases</span>
 <span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cat /demo/files/more_theme_aliases.csv | tee -a output/theme_aliases.csv</span>
@@ -3919,7 +3924,7 @@ Extracted source into /demo/workspace/theme-aliases
 workshop,collaboration
 healthcare,healthcare
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip.
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/workspace/theme-aliases
 </span><span class="prompt">/demo/workspace/theme-aliases $ </span><span class="command">cd ..</span>
@@ -3935,10 +3940,10 @@ healthcare,healthcare
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -3963,10 +3968,10 @@ healthcare,healthcare
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -3991,10 +3996,10 @@ healthcare,healthcare
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4020,10 +4025,10 @@ healthcare,healthcare
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4049,10 +4054,10 @@ healthcare,healthcare
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4067,7 +4072,7 @@ healthcare,healthcare
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="cursor"></span></div>
@@ -4087,10 +4092,10 @@ Input data not loaded, update if needed and load manually
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4105,7 +4110,7 @@ Input data not loaded, update if needed and load manually
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span><span class="cursor"></span></div>
@@ -4125,10 +4130,10 @@ Input data not loaded, update if needed and load manually
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4143,7 +4148,7 @@ Input data not loaded, update if needed and load manually
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4164,10 +4169,10 @@ Input data not loaded, update if needed and load manually
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4182,7 +4187,7 @@ Input data not loaded, update if needed and load manually
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4203,10 +4208,10 @@ Input data not loaded, update if needed and load manually
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4221,7 +4226,7 @@ Input data not loaded, update if needed and load manually
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4256,10 +4261,10 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4274,7 +4279,7 @@ SQL
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4309,10 +4314,10 @@ SQL
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4327,7 +4332,7 @@ SQL
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4352,15 +4357,15 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
@@ -4381,10 +4386,10 @@ You can &quot;load&quot; or &quot;update&quot; them manually.
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4399,7 +4404,7 @@ You can &quot;load&quot; or &quot;update&quot; them manually.
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4424,15 +4429,15 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
@@ -4453,10 +4458,10 @@ You can &quot;load&quot; or &quot;update&quot; them manually.
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4471,7 +4476,7 @@ You can &quot;load&quot; or &quot;update&quot; them manually.
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4496,22 +4501,22 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="cursor"></span></div>
   </div>
@@ -4534,10 +4539,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4552,7 +4557,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4577,22 +4582,22 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span><span class="cursor"></span></div>
   </div>
@@ -4615,10 +4620,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4633,7 +4638,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4658,25 +4663,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip ... OK
 Removing current data from theme-aliases
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="cursor"></span></div>
@@ -4700,10 +4705,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4718,7 +4723,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4743,25 +4748,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip ... OK
 Removing current data from theme-aliases
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bash run.sh</span><span class="cursor"></span></div>
@@ -4785,10 +4790,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4803,7 +4808,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4828,25 +4833,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip ... OK
 Removing current data from theme-aliases
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bash run.sh</span>
@@ -4872,10 +4877,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4890,7 +4895,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -4915,25 +4920,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip ... OK
 Removing current data from theme-aliases
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bash run.sh</span>
@@ -4959,10 +4964,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -4977,7 +4982,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -5002,25 +5007,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip ... OK
 Removing current data from theme-aliases
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bash run.sh</span>
@@ -5054,10 +5059,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5072,7 +5077,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -5097,25 +5102,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip ... OK
 Removing current data from theme-aliases
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bash run.sh</span>
@@ -5149,10 +5154,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5167,7 +5172,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -5192,25 +5197,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip ... OK
 Removing current data from theme-aliases
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bash run.sh</span>
@@ -5245,10 +5250,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5263,7 +5268,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -5288,25 +5293,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip ... OK
 Removing current data from theme-aliases
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bash run.sh</span>
@@ -5341,10 +5346,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5359,7 +5364,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -5384,25 +5389,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip ... OK
 Removing current data from theme-aliases
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bash run.sh</span>
@@ -5429,10 +5434,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5447,7 +5452,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -5472,25 +5477,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip ... OK
 Removing current data from theme-aliases
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bash run.sh</span>
@@ -5517,10 +5522,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5535,7 +5540,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/workspace $ </span><span class="command">bead edit classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000554372+0000.zip ... OK
 Extracted source into /demo/workspace/classifier
 Input data not loaded, update if needed and load manually
 </span><span class="prompt">/demo/workspace $ </span><span class="command">cd classifier</span>
@@ -5560,25 +5565,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420887198+0000
+	Bead:        sessions # 20250910T150420947516+0000
 	Box[es]:
-	 * -r demo # 20250910T150420887198+0000
+	 * -r demo # 20250910T150420947516+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620504054+0000
+	Bead:        theme-aliases # 20250910T150620566321+0000
 	Box[es]:
-	 * -r demo # 20250910T150620504054+0000
+	 * -r demo # 20250910T150620566321+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420887198+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420947516+0000.zip ... OK
 Loading new data to sessions ... Done
-Verifying archive /demo/bead-box/theme-aliases_20250910T150620504054+0000.zip ... OK
+Verifying archive /demo/bead-box/theme-aliases_20250910T150620566321+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141010790+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151141070657+0000.zip ... OK
 Removing current data from theme-aliases
 Loading new data to theme-aliases ... Done
 </span><span class="prompt">/demo/workspace/classifier $ </span><span class="command">bash run.sh</span>
@@ -5606,10 +5611,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5634,10 +5639,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5662,10 +5667,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5691,10 +5696,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5720,10 +5725,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── sessions_20250910T150420887198+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── sessions_20250910T150420947516+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5750,9 +5755,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5779,9 +5784,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5811,9 +5816,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5843,9 +5848,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5865,9 +5870,9 @@ Loading new data to theme-aliases ... Done
   ✓ Success
 </span><span class="prompt">/demo/workspace $ </span><span class="command">bead web color svg session-themes.svg</span>
 <span class="output">
-Loaded bead 1 (demo : theme-aliases @ 20250910T150620504054+0000)              
-Loaded bead 2 (demo : classifier @ 20250910T151000492972+0000)                 
-Loaded bead 3 (demo : theme-aliases @ 20250910T151141010790+0000)              
+Loaded bead 1 (demo : theme-aliases @ 20250910T150620566321+0000)              
+Loaded bead 2 (demo : classifier @ 20250910T151000554372+0000)                 
+Loaded bead 3 (demo : theme-aliases @ 20250910T151141070657+0000)              
                                                                                 
 Loaded 3 beads
 Creating SVG: session-themes.svg
@@ -5884,9 +5889,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5915,9 +5920,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5943,9 +5948,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -5972,9 +5977,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -6001,9 +6006,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -6020,12 +6025,12 @@ Creating SVG: session-themes.svg
 <span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
 <span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
 --------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
+     181  Defl:N      139  23% 2025-09-03 02:08 af1dd6c0  data/classified_sessions.csv
+     370  Defl:N      232  37% 2025-09-03 02:08 e1c1f982  code/run.sh
+     936  Defl:N      480  49% 2025-09-10 15:10 a11e2439  meta/bead
+     470  Defl:N      301  36% 2025-09-10 15:10 ee5413bc  meta/manifest
 --------          -------  ---                            -------
-    1957             1153  41%                            4 files
+    1957             1152  41%                            4 files
 </span><span class="prompt">/demo/workspace $ </span><span class="cursor"></span></div>
   </div>
 
@@ -6039,9 +6044,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -6058,13 +6063,13 @@ Creating SVG: session-themes.svg
 <span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
 <span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
 --------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
+     181  Defl:N      139  23% 2025-09-03 02:08 af1dd6c0  data/classified_sessions.csv
+     370  Defl:N      232  37% 2025-09-03 02:08 e1c1f982  code/run.sh
+     936  Defl:N      480  49% 2025-09-10 15:10 a11e2439  meta/bead
+     470  Defl:N      301  36% 2025-09-10 15:10 ee5413bc  meta/manifest
 --------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span><span class="cursor"></span></div>
+    1957             1152  41%                            4 files
+</span><span class="prompt">/demo/workspace $ </span><span class="command">: end of demo</span><span class="cursor"></span></div>
   </div>
 
   <div class="bottom-content">
@@ -6077,9 +6082,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>
@@ -6096,546 +6101,13 @@ Creating SVG: session-themes.svg
 <span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
 <span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
 --------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
+     181  Defl:N      139  23% 2025-09-03 02:08 af1dd6c0  data/classified_sessions.csv
+     370  Defl:N      232  37% 2025-09-03 02:08 e1c1f982  code/run.sh
+     936  Defl:N      480  49% 2025-09-10 15:10 a11e2439  meta/bead
+     470  Defl:N      301  36% 2025-09-10 15:10 ee5413bc  meta/manifest
 --------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-├── internals
-│   ├── input
-│   ├── output
-│   └── temp
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-├── internals
-│   ├── input
-│   ├── output
-│   └── temp
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span>
-<span class="prompt">/demo/workspace/internals $ </span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-├── internals
-│   ├── input
-│   ├── output
-│   └── temp
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span>
-<span class="prompt">/demo/workspace/internals $ </span><span class="command">bead input add classifier</span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-├── internals
-│   ├── input
-│   ├── output
-│   └── temp
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span>
-<span class="prompt">/demo/workspace/internals $ </span><span class="command">bead input add classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
-Loading new data to classifier ... Done
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-├── internals
-│   ├── input
-│   │   └── classifier
-│   │       └── classified_sessions.csv
-│   ├── output
-│   └── temp
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span>
-<span class="prompt">/demo/workspace/internals $ </span><span class="command">bead input add classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
-Loading new data to classifier ... Done
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cat .bead-meta/bead</span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-├── internals
-│   ├── input
-│   │   └── classifier
-│   │       └── classified_sessions.csv
-│   ├── output
-│   └── temp
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span>
-<span class="prompt">/demo/workspace/internals $ </span><span class="command">bead input add classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
-Loading new data to classifier ... Done
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cat .bead-meta/bead</span>
-<span class="output">{
-    &quot;inputs&quot;: {
-        &quot;classifier&quot;: {
-            &quot;content_id&quot;: &quot;148d17a80d37606f58ff2bc71e0b4fb38379ce7adcda70745e877194546b425d45a81758b668c9ca867e18b173ae12b15fe9ce54ddd9d6ed91028f6915c0ed41&quot;,
-            &quot;freeze_time&quot;: &quot;20250910T151000492972+0000&quot;,
-            &quot;kind&quot;: &quot;a698079e8dbdafe1730f217634dc4a58-5960a471-93cf-4088-9c88-e244e8e21b67&quot;
-        }
-    },
-    &quot;kind&quot;: &quot;8b0832cad0a8a5f3b2cf99106e0136df-4f07adf3-d36c-4f1e-986e-b7f10e23aa8d&quot;
-}
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-├── internals
-│   ├── input
-│   │   └── classifier
-│   │       └── classified_sessions.csv
-│   ├── output
-│   └── temp
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span>
-<span class="prompt">/demo/workspace/internals $ </span><span class="command">bead input add classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
-Loading new data to classifier ... Done
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cat .bead-meta/bead</span>
-<span class="output">{
-    &quot;inputs&quot;: {
-        &quot;classifier&quot;: {
-            &quot;content_id&quot;: &quot;148d17a80d37606f58ff2bc71e0b4fb38379ce7adcda70745e877194546b425d45a81758b668c9ca867e18b173ae12b15fe9ce54ddd9d6ed91028f6915c0ed41&quot;,
-            &quot;freeze_time&quot;: &quot;20250910T151000492972+0000&quot;,
-            &quot;kind&quot;: &quot;a698079e8dbdafe1730f217634dc4a58-5960a471-93cf-4088-9c88-e244e8e21b67&quot;
-        }
-    },
-    &quot;kind&quot;: &quot;8b0832cad0a8a5f3b2cf99106e0136df-4f07adf3-d36c-4f1e-986e-b7f10e23aa8d&quot;
-}
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">bead discard</span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-├── internals
-│   ├── input
-│   │   └── classifier
-│   │       └── classified_sessions.csv
-│   ├── output
-│   └── temp
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span>
-<span class="prompt">/demo/workspace/internals $ </span><span class="command">bead input add classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
-Loading new data to classifier ... Done
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cat .bead-meta/bead</span>
-<span class="output">{
-    &quot;inputs&quot;: {
-        &quot;classifier&quot;: {
-            &quot;content_id&quot;: &quot;148d17a80d37606f58ff2bc71e0b4fb38379ce7adcda70745e877194546b425d45a81758b668c9ca867e18b173ae12b15fe9ce54ddd9d6ed91028f6915c0ed41&quot;,
-            &quot;freeze_time&quot;: &quot;20250910T151000492972+0000&quot;,
-            &quot;kind&quot;: &quot;a698079e8dbdafe1730f217634dc4a58-5960a471-93cf-4088-9c88-e244e8e21b67&quot;
-        }
-    },
-    &quot;kind&quot;: &quot;8b0832cad0a8a5f3b2cf99106e0136df-4f07adf3-d36c-4f1e-986e-b7f10e23aa8d&quot;
-}
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">bead discard</span>
-<span class="output">Deleted workspace /demo/workspace/internals
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span>
-<span class="prompt">/demo/workspace/internals $ </span><span class="command">bead input add classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
-Loading new data to classifier ... Done
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cat .bead-meta/bead</span>
-<span class="output">{
-    &quot;inputs&quot;: {
-        &quot;classifier&quot;: {
-            &quot;content_id&quot;: &quot;148d17a80d37606f58ff2bc71e0b4fb38379ce7adcda70745e877194546b425d45a81758b668c9ca867e18b173ae12b15fe9ce54ddd9d6ed91028f6915c0ed41&quot;,
-            &quot;freeze_time&quot;: &quot;20250910T151000492972+0000&quot;,
-            &quot;kind&quot;: &quot;a698079e8dbdafe1730f217634dc4a58-5960a471-93cf-4088-9c88-e244e8e21b67&quot;
-        }
-    },
-    &quot;kind&quot;: &quot;8b0832cad0a8a5f3b2cf99106e0136df-4f07adf3-d36c-4f1e-986e-b7f10e23aa8d&quot;
-}
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">bead discard</span>
-<span class="output">Deleted workspace /demo/workspace/internals
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cd ..</span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span>
-<span class="prompt">/demo/workspace/internals $ </span><span class="command">bead input add classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
-Loading new data to classifier ... Done
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cat .bead-meta/bead</span>
-<span class="output">{
-    &quot;inputs&quot;: {
-        &quot;classifier&quot;: {
-            &quot;content_id&quot;: &quot;148d17a80d37606f58ff2bc71e0b4fb38379ce7adcda70745e877194546b425d45a81758b668c9ca867e18b173ae12b15fe9ce54ddd9d6ed91028f6915c0ed41&quot;,
-            &quot;freeze_time&quot;: &quot;20250910T151000492972+0000&quot;,
-            &quot;kind&quot;: &quot;a698079e8dbdafe1730f217634dc4a58-5960a471-93cf-4088-9c88-e244e8e21b67&quot;
-        }
-    },
-    &quot;kind&quot;: &quot;8b0832cad0a8a5f3b2cf99106e0136df-4f07adf3-d36c-4f1e-986e-b7f10e23aa8d&quot;
-}
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">bead discard</span>
-<span class="output">Deleted workspace /demo/workspace/internals
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cd ..</span>
+    1957             1152  41%                            4 files
+</span><span class="prompt">/demo/workspace $ </span><span class="command">: end of demo</span>
 <span class="prompt">/demo/workspace $ </span><span class="cursor"></span></div>
   </div>
 
@@ -6649,126 +6121,9 @@ Loading new data to classifier ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span>
-<span class="prompt">/demo/workspace/internals $ </span><span class="command">bead input add classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
-Loading new data to classifier ... Done
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cat .bead-meta/bead</span>
-<span class="output">{
-    &quot;inputs&quot;: {
-        &quot;classifier&quot;: {
-            &quot;content_id&quot;: &quot;148d17a80d37606f58ff2bc71e0b4fb38379ce7adcda70745e877194546b425d45a81758b668c9ca867e18b173ae12b15fe9ce54ddd9d6ed91028f6915c0ed41&quot;,
-            &quot;freeze_time&quot;: &quot;20250910T151000492972+0000&quot;,
-            &quot;kind&quot;: &quot;a698079e8dbdafe1730f217634dc4a58-5960a471-93cf-4088-9c88-e244e8e21b67&quot;
-        }
-    },
-    &quot;kind&quot;: &quot;8b0832cad0a8a5f3b2cf99106e0136df-4f07adf3-d36c-4f1e-986e-b7f10e23aa8d&quot;
-}
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">bead discard</span>
-<span class="output">Deleted workspace /demo/workspace/internals
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cd ..</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">: end of demo</span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/workspace $ </span><span class="command">: ⚙️ Internals</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">unzip -v /demo/bead-box/classifier_*.zip | tail -8</span>
-<span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
---------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-03 00:21 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-03 00:21 e1c1f982  code/run.sh
-     936  Defl:N      481  49% 2025-09-10 15:10 5ef0d309  meta/bead
-     470  Defl:N      301  36% 2025-09-10 15:10 d99b8de1  meta/manifest
---------          -------  ---                            -------
-    1957             1153  41%                            4 files
-</span><span class="prompt">/demo/workspace $ </span><span class="command">bead new internals</span>
-<span class="output">Created workspace &quot;internals&quot;
-</span><span class="prompt">/demo/workspace $ </span><span class="command">cd internals</span>
-<span class="prompt">/demo/workspace/internals $ </span><span class="command">bead input add classifier</span>
-<span class="output">Verifying archive /demo/bead-box/classifier_20250910T151000492972+0000.zip ... OK
-Loading new data to classifier ... Done
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cat .bead-meta/bead</span>
-<span class="output">{
-    &quot;inputs&quot;: {
-        &quot;classifier&quot;: {
-            &quot;content_id&quot;: &quot;148d17a80d37606f58ff2bc71e0b4fb38379ce7adcda70745e877194546b425d45a81758b668c9ca867e18b173ae12b15fe9ce54ddd9d6ed91028f6915c0ed41&quot;,
-            &quot;freeze_time&quot;: &quot;20250910T151000492972+0000&quot;,
-            &quot;kind&quot;: &quot;a698079e8dbdafe1730f217634dc4a58-5960a471-93cf-4088-9c88-e244e8e21b67&quot;
-        }
-    },
-    &quot;kind&quot;: &quot;8b0832cad0a8a5f3b2cf99106e0136df-4f07adf3-d36c-4f1e-986e-b7f10e23aa8d&quot;
-}
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">bead discard</span>
-<span class="output">Deleted workspace /demo/workspace/internals
-</span><span class="prompt">/demo/workspace/internals $ </span><span class="command">cd ..</span>
-<span class="prompt">/demo/workspace $ </span><span class="command">: end of demo</span>
-<span class="prompt">/demo/workspace $ </span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/workspace
-└── session-themes.svg
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── classifier_20250910T151000492972+0000.zip
-├── theme-aliases_20250910T150620504054+0000.zip
-└── theme-aliases_20250910T151141010790+0000.zip
+├── classifier_20250910T151000554372+0000.zip
+├── theme-aliases_20250910T150620566321+0000.zip
+└── theme-aliases_20250910T151141070657+0000.zip
 </pre>
     </div>
   </div>

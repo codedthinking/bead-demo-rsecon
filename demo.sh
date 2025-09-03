@@ -1,34 +1,39 @@
+## 📐 Design
+#:- Reproducibility
+#:- Integrity
+#:- Ease of use
+#:- Local first
+#:- Task scope
+#:- Allow updates
+#:  - input changes
+#:  - code changes
+
 ## ⚡ Inspiration
 #:- Data Journalism
 #:- Human concept of story
-#:  - Characters, setting, events, theme or message
-#:  - Variable scope
 #:  - Stories are composable
-#:  - Helps us to make sense of the world
-
-## 📐 Design
-#:- ISBN / ISSN
-#:  - Identification of books and series with code
-#:- Task scope
-#:- Local first
-#:- Integrity
+#:  - Helps us make sense of the world
+#:- Project
+#:- Publishing: ISBN / ISSN
 
 ## 🎬 Demo
+#:
 #:Conference session classification by title
 #:
-#:Inputs:
+#:- Inputs:
 #:
-#:- list of sessions
-#:- session theme classification rules
+#:  - list of sessions
+#:  - session theme classification rules
 #:
-#:Output:
+#:- Output:
 #:
-#: - list of sessions extended with theme
+#:  - list of sessions extended with theme
+#:
 
 : ⚙️ Setup
 : prepared files
 tree /demo
-: workspace - where we work
+: workspace
 mkdir /demo/workspace
 cd /demo/workspace
 : box - storage for beads
@@ -106,12 +111,6 @@ bead web color svg session-themes.svg
 #:cls
 : ⚙️ Internals
 unzip -v /demo/bead-box/classifier_*.zip | tail -8
-bead new internals
-cd internals
-bead input add classifier
-cat .bead-meta/bead
-bead discard
-cd ..
 : end of demo
 
 # 🧩 Similar ideas
