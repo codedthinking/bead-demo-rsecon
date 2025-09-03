@@ -17,9 +17,9 @@ You need to:
 
 ## Research Results are Functions
 
-<div style="text-align: center;">
-    `Figure 1 = code(data)`
-</div>
+:::
+`Figure 1 = code(data)`
+:::
 
 - Results depend on both algorithms and data
 - Code under version control (Git) ✓
@@ -28,9 +28,9 @@ You need to:
 
 ## Data is Also a Function
 
-<div style="text-align: center;">
-    `data₁ = code₂(data₂)`
-</div>
+:::    
+`data₁ = code₂(data₂)`
+:::
 
 - Data transformed by wrangling/cleaning steps
     - countries dropped
