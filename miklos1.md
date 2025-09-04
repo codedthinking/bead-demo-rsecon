@@ -15,7 +15,7 @@ You need to:
 - Different statistical methods now
 - **First question**: How _exactly_ was Figure 1 produced?
 
-## Research Results are Functions
+## Luckily, You Worked Reproducibly
 
 :::{.center}
 `Figure 1 = code(data)`
@@ -26,7 +26,7 @@ You need to:
 - Tagged commit at submission ✓
 - **But what about the data?**
 
-## Data is Also a Function
+## Data is Also a the Result of a Computation
 
 :::{.center}
 `data₁ = code₂(data₂)`
@@ -83,9 +83,9 @@ You need to:
 - You run your own code
 - Python, R, Stata, SQL - doesn't matter
 
-### Not a file delivery system
+### Not a file sharing system
 - File system stores your files
-- You copy/move files yourself
+- Sharing it with others is your responsibility (but can be easily automated)
 
 ### Only requirement:
 - Works with flat files on file system

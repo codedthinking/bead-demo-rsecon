@@ -33,15 +33,10 @@
 - Installation: [https://bead.zip/install](https://bead.zip/install)
 - GitHub: [github.com/e3krisztian/bead](https://github.com/e3krisztian/bead)
 
+![](images/erc-logo.png){height=200px}^[This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No 313164). The views expressed are those of the authors and do not necessarily reflect those of the ERC or the European Commission.]
 
-![](images/erc-logo.png){ width=20% }
+### Slides 
 
-This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No 313164). The views expressed are those of the authors and do not necessarily reflect those of the ERC or the European Commission.
+[bead.zip/rsecon25](https://bead.zip/rsecon25)
 
-## References
-
-- **World Development Indicators**: [data.worldbank.org/indicator](https://data.worldbank.org/indicator)
-- **DVC (Data Version Control)**: [dvc.org](https://dvc.org)
-- **Apache Airflow**: [airflow.apache.org](https://airflow.apache.org)
-- **dbt**: [getdbt.com](https://www.getdbt.com)
-- **KNIME**: [knime.com](https://knime.com)
+![](images/qr-slide-url.svg){width=200px height=200px}
