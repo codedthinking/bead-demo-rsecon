@@ -13,6 +13,7 @@
 #:- Human concept of story
 #:  - Stories are composable
 #:  - Helps us make sense of the world
+#:- Script (vs tool)
 #:- Project
 #:- Publishing: ISBN / ISSN
 
@@ -90,7 +91,7 @@ clear
 : Use the improved input to re-classify sessions
 bead edit classifier
 cd classifier
-cat run.sh
+nl run.sh
 bead status
 bead input load
 bead input update theme-aliases
@@ -114,16 +115,23 @@ unzip -v /demo/bead-box/classifier_*.zip | tail -8
 : end of demo
 
 # 🧩 Similar ideas
-#:+---------------------------------------------------------+--------------------------------------------:+
-#:| - kaggle notebook                                       |                                             |
-#:|   <https://www.kaggle.com/code>                         | ![](images/kaggle-notebook.svg){width=200}  |
-#:+---------------------------------------------------------+---------------------------------------------+
-#:| - nix flake                                             |                                             |
-#:|   <https://nixos.wiki/wiki/Flakes#Flake_schema>         | ![](images/nix-flakes.svg){width=200}       |
-#:+---------------------------------------------------------+---------------------------------------------+
-#:| - orderly2 (RSECON24 talk)                              |                                             |
-#:|   <https://youtu.be/lkPgihFQbrk>                        | ![](images/orderly2.svg){width=200}         |
-#:+---------------------------------------------------------+---------------------------------------------+
+#:+:--------------------------------------------------------+------------------------------------------------------------:+
+#:| - kaggle notebook                                       | ![](images/kaggle-notebook.svg){width=200px height=200px}   |
+#:|   <https://www.kaggle.com/code>                         |                                                             |
+#:+---------------------------------------------------------+-------------------------------------------------------------+
+#:| - nix flake                                             | ![](images/nix-flakes.svg){width=200px height=200px}        |
+#:|   <https://nixos.wiki/wiki/Flakes#Flake_schema>         |                                                             |
+#:+---------------------------------------------------------+-------------------------------------------------------------+
+#:: {.hover tbl-colwidths="[75,25]"}
+
+# 🧩 Similar ideas2
+#:+:---------------------------------------------------------------+------------------------------------------------------------:+
+#:| - orderly2 (RSECON24 talk)                                     | ![](images/orderly2.svg){width=200px height=200px}          |
+#:|   <https://youtu.be/lkPgihFQbrk>                               |                                                             |
+#:+----------------------------------------------------------------+-------------------------------------------------------------+
+#:| - orderly2 (Article)                                           | ![](images/orderly2-article.svg){width=200px height=200px}  |
+#:|   <https://mrc-ide.github.io/orderly2/articles/orderly2.html>  |                                                             |
+#:+----------------------------------------------------------------+-------------------------------------------------------------+
 #:: {.hover tbl-colwidths="[75,25]"}
 
 # 🐙 Source
@@ -133,6 +141,6 @@ unzip -v /demo/bead-box/classifier_*.zip | tail -8
 #:<https://github.com/e3krisztian/bead>
 #::::
 #:::: {.column width="30%"}
-#:![](images/e3krisztian-bead.svg){width=300}
+#:![](images/e3krisztian-bead.svg){width=300px}
 #::::
 #:::::
