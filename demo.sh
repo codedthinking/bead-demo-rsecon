@@ -1,23 +1,17 @@
-## 📐 Design
-#:- Reproducibility
+### 📐 Design
 #:- Integrity
 #:- Ease of use
-#:- Local first
-#:- Task scope
-#:- Allow updates
-#:  - input changes
-#:  - code changes
+#:- Reproducibility
 
-## ⚡ Inspiration
+### ⚡ Inspiration
 #:- Data Journalism
 #:- Human concept of story
 #:  - Stories are composable
 #:  - Helps us make sense of the world
-#:- Script (vs tool)
 #:- Project
 #:- Publishing: ISBN / ISSN
 
-## 🎬 Demo
+### 🎬 Demo
 #:
 #:Conference session classification by title
 #:
@@ -37,7 +31,7 @@ tree /demo
 : workspace
 mkdir /demo/workspace
 cd /demo/workspace
-: box - storage for beads
+: box = storage for beads
 mkdir /demo/bead-box
 bead box add demo /demo/bead-box
 bead box list
@@ -64,13 +58,14 @@ cd ..
 clear
 
 : 🔗 Computation
-bead new classifier
-cd classifier
+bead new possible-tracks
+cd possible-tracks
 bead input add sessions
 bead input add theme-aliases
 cp -v /demo/files/run.sh .
 nl run.sh
 bash run.sh
+: No arguments: script, not a tool!
 csvlook output/classified_sessions.csv
 cowsay -f hellokitty "Diana did not get a theme"
 bead save
@@ -89,8 +84,8 @@ cd ..
 clear
 
 : Use the improved input to re-classify sessions
-bead edit classifier
-cd classifier
+bead edit possible-tracks
+cd possible-tracks
 nl run.sh
 bead status
 bead input load
@@ -107,14 +102,14 @@ rm /demo/bead-box/sessions*
 bead box sync
 bead web color svg session-themes.svg
 
-## session-themes.svg
+### session-themes.svg
 #:![](images/session-themes.svg)
 
 : ⚙️ Internals
-unzip -v /demo/bead-box/classifier_*.zip | tail -8
+unzip -v /demo/bead-box/possible-tracks_*.zip | tail -8
 : end of demo
 
-# 🧩 Similar ideas
+### 🧩 Similar ideas
 #:+:--------------------------------------------------------+------------------------------------------------------------:+
 #:| - kaggle notebook                                       | ![](images/kaggle-notebook.svg){width=200px height=200px}   |
 #:|   <https://www.kaggle.com/code>                         |                                                             |
@@ -124,7 +119,7 @@ unzip -v /demo/bead-box/classifier_*.zip | tail -8
 #:+---------------------------------------------------------+-------------------------------------------------------------+
 #:: {.hover tbl-colwidths="[75,25]"}
 
-# 🧩 Similar ideas2
+### 🧩 Similar ideas2
 #:+:---------------------------------------------------------------+------------------------------------------------------------:+
 #:| - orderly2 (RSECON24 talk)                                     | ![](images/orderly2.svg){width=200px height=200px}          |
 #:|   <https://youtu.be/lkPgihFQbrk>                               |                                                             |
@@ -134,7 +129,7 @@ unzip -v /demo/bead-box/classifier_*.zip | tail -8
 #:+----------------------------------------------------------------+-------------------------------------------------------------+
 #:: {.hover tbl-colwidths="[75,25]"}
 
-# 🐙 Source
+### 🐙 Source
 #::::: {.columns}
 #:::: {.column width="70%"}
 #:<br><br><br>
