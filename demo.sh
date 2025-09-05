@@ -4,7 +4,6 @@
 #:- Reproducibility
 
 ### ⚡ Inspiration
-#:- Data Journalism
 #:- Human concept of story
 #:  - Stories are composable
 #:  - Helps us make sense of the world
@@ -28,9 +27,9 @@
 : ⚙️ Setup
 : prepared files
 tree /demo
-: workspace
-mkdir /demo/workspace
-cd /demo/workspace
+: working directory
+mkdir /demo/projects
+cd /demo/projects
 : box = storage for beads
 mkdir /demo/bead-box
 bead box add demo /demo/bead-box
@@ -67,7 +66,7 @@ nl run.sh
 bash run.sh
 : No arguments: script, not a tool!
 csvlook output/classified_sessions.csv
-cowsay -f hellokitty "Diana did not get a theme"
+cowsay -f hellokitty "Diana did not get a theme assigned!"
 bead save
 bead discard
 cd ..
@@ -76,8 +75,14 @@ clear
 : New version of theme-aliases bead.
 bead edit theme-aliases --review
 cd theme-aliases
-cat /demo/files/more_theme_aliases.csv | tee -a output/theme_aliases.csv
+csvlook output/theme_aliases.csv
 : Diana - "Team Building Workshop"
+cat >> output/theme_aliases.csv <<EOF
+team,collaboration
+workshop,collaboration
+healthcare,healthcare
+EOF
+csvlook output/theme_aliases.csv
 bead save
 bead discard
 cd ..
@@ -88,11 +93,11 @@ bead edit possible-tracks
 cd possible-tracks
 nl run.sh
 bead status
-bead input load
 bead input update theme-aliases
+bead input load
 bash run.sh
 csvlook output/classified_sessions.csv
-: ✨ Updated!
+: ✨ Yay!
 bead discard
 cd ..
 clear
