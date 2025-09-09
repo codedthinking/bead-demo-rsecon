@@ -30,7 +30,7 @@ Conference session classification by title
 ```{=html}
 <div class="top-bottom-layout">
   <div class="top-content">
-<div class="terminal"><span class="prompt">/demo $ </span><span class="cursor"></span></div>
+<div class="terminal" role="region" aria-label="Terminal demonstration - empty prompt" tabindex="0"><span class="prompt" aria-hidden="true">/demo $ </span><span class="cursor" aria-hidden="true"></span></div>
   </div>
 
   <div class="bottom-content">
@@ -54,7 +54,7 @@ Conference session classification by title
 ```{=html}
 <div class="top-bottom-layout">
   <div class="top-content">
-<div class="terminal"><span class="prompt">/demo $ </span><span class="command">: ⚙️ Setup</span><span class="cursor"></span></div>
+<div class="terminal" role="region" aria-label="Terminal: Setup command" tabindex="0"><span class="prompt" aria-hidden="true">/demo $ </span><span class="command" aria-label="Command: Setup">: ⚙️ Setup</span><span class="cursor" aria-hidden="true"></span></div>
   </div>
 
   <div class="bottom-content">

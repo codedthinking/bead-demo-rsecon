@@ -21,8 +21,12 @@ temp/
 *_cache/
 *_files/
 
-# Generated files  
+# Generated files (Make targets)
 README.tex
+README.pdf
+39-bead.html
+39-bead.pdf
+39-bead_files/
 
 # OS files
 .DS_Store
@@ -56,6 +60,19 @@ Manifest.toml
 *.log
 server-*.log
 
-# Temporary files
+# Temporary and backup files
 *.tmp
 *.bak
+*-backup.*
+*.backup
+*.orig
+*.old
+.#*
+\#*#
+
+# Accessibility development files (keep only production files)
+accessibility-*.js
+accessibility-*.css
+accessibility-integration.html
+accessibility-patch.js
+# Keep only: accessibility.html and ACCESSIBILITY.md

@@ -121,10 +121,44 @@ function scrollTerminals() {
 
   const terminals = currentSlide.querySelectorAll('.terminal');
   console.log("Terminals found:", terminals.length);
-  terminals.forEach(terminal => {
+  terminals.forEach((terminal, index) => {
     terminal.scrollTop = terminal.scrollHeight;
     terminal.classList.add('scrolled'); // Show after scroll
     console.log("Scrolled to:", terminal.scrollTop);
+    
+    // Add ARIA attributes for accessibility
+    if (!terminal.getAttribute('role')) {
+      terminal.setAttribute('role', 'region');
+      terminal.setAttribute('aria-label', 'Terminal output');
+      terminal.setAttribute('tabindex', '0');
+      terminal.setAttribute('aria-live', 'polite');
+      terminal.setAttribute('aria-atomic', 'true');
+    }
+    
+    // Mark prompts as decorative
+    const prompts = terminal.querySelectorAll('.prompt');
+    prompts.forEach(prompt => {
+      if (!prompt.getAttribute('aria-hidden')) {
+        prompt.setAttribute('aria-hidden', 'true');
+      }
+    });
+    
+    // Label commands
+    const commands = terminal.querySelectorAll('.command');
+    commands.forEach(cmd => {
+      if (!cmd.getAttribute('aria-label')) {
+        cmd.setAttribute('aria-label', 'Command: ' + cmd.textContent);
+      }
+    });
+    
+    // Label outputs
+    const outputs = terminal.querySelectorAll('.output');
+    outputs.forEach(output => {
+      if (!output.getAttribute('aria-label')) {
+        output.setAttribute('aria-label', 'Output');
+        output.setAttribute('role', 'log');
+      }
+    });
   });
 }
 
@@ -174,9 +208,41 @@ function improveKeyboardAccessibility() {
   });
 }
 
+// Add ARIA attributes to all terminals on page load
+function enhanceAllTerminals() {
+  const allTerminals = document.querySelectorAll('.terminal');
+  console.log("Enhancing all terminals:", allTerminals.length);
+  
+  allTerminals.forEach((terminal, index) => {
+    terminal.setAttribute('role', 'region');
+    terminal.setAttribute('aria-label', 'Terminal demonstration step ' + (index + 1));
+    terminal.setAttribute('tabindex', '0');
+    
+    // Mark prompts as decorative
+    const prompts = terminal.querySelectorAll('.prompt');
+    prompts.forEach(prompt => {
+      prompt.setAttribute('aria-hidden', 'true');
+    });
+    
+    // Label commands
+    const commands = terminal.querySelectorAll('.command');
+    commands.forEach(cmd => {
+      cmd.setAttribute('aria-label', 'Command: ' + cmd.textContent);
+    });
+    
+    // Label outputs  
+    const outputs = terminal.querySelectorAll('.output');
+    outputs.forEach(output => {
+      output.setAttribute('aria-label', 'Output');
+      output.setAttribute('role', 'log');
+    });
+  });
+}
+
 Reveal.on('ready', function() {
   addMainLandmark();
   improveKeyboardAccessibility();
+  enhanceAllTerminals(); // Add this
   scrollTerminals();
 });
 Reveal.on('slidechanged', scrollTerminals);
