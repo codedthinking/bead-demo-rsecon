@@ -40,7 +40,7 @@ You need to:
 
 ## A Real-World Data Pipeline
 
-![](images/Proc_LTS.png)
+![Complex data pipeline diagram showing multiple interconnected processing steps and data flows](images/Proc_LTS.png)
 
 ## The Data Provenance Problem
 

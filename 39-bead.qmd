@@ -9,6 +9,61 @@ format:
   revealjs:
     include-after-body:
         file: terminal.html
+    include-in-header:
+        - text: |
+            <style>
+            /* Accessibility improvements */
+            
+            /* Skip link styling */
+            .skip-link {
+              position: absolute;
+              left: -999px;
+              top: auto;
+              z-index: 1000;
+              padding: 0.5rem 1rem;
+              background: #fff;
+              border: 2px solid currentColor;
+              text-decoration: none;
+              color: #000;
+            }
+            
+            .skip-link:focus {
+              left: 1rem;
+              top: 1rem;
+            }
+            
+            /* Focus visibility for all interactive elements */
+            :focus-visible {
+              outline: 3px solid currentColor;
+              outline-offset: 3px;
+            }
+            
+            /* Reduced motion support */
+            @media (prefers-reduced-motion: reduce) {
+              * {
+                animation: none !important;
+                transition: none !important;
+                scroll-behavior: auto !important;
+              }
+              
+              /* Keep essential reveal.js transitions but make them instant */
+              .reveal .slides section {
+                transition-duration: 0ms !important;
+              }
+              
+              .reveal .slides section .fragment {
+                transition: none !important;
+              }
+              
+              /* Disable cursor blinking animation */
+              .cursor {
+                animation: none !important;
+              }
+            }
+            </style>
+    include-before-body:
+        - text: |
+            <a class="skip-link" href="#main">Skip to content</a>
     # logo: bead.zip.png
     footer: "bead"
     slide-number: true
