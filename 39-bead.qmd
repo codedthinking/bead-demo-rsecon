@@ -5,6 +5,7 @@ author:
     - "Krisztián Fekete"
     - "Miklós Koren"
 date: 2025-09-10
+lang: en
 format:
   revealjs:
     include-after-body:
@@ -36,6 +37,26 @@ format:
             :focus-visible {
               outline: 3px solid currentColor;
               outline-offset: 3px;
+            }
+            
+            /* Better focus visibility for reveal.js controls */
+            .reveal .controls button:focus-visible {
+              outline: 3px solid #fff;
+              outline-offset: 3px;
+            }
+            
+            /* Ensure tooltips are keyboard accessible */
+            [data-tippy-root] {
+              position: relative;
+            }
+            
+            [data-tippy-root] [tabindex]:not([tabindex="-1"]) {
+              outline: 3px solid currentColor when focused;
+            }
+            
+            /* Make sure slide menu button is keyboard accessible */
+            .slide-menu-button {
+              outline: 3px solid currentColor when focused;
             }
             
             /* Reduced motion support */

@@ -134,13 +134,49 @@ function addMainLandmark() {
   if (slidesContainer && !slidesContainer.closest('main')) {
     const main = document.createElement('main');
     main.id = 'main';
+    main.setAttribute('role', 'main');
     slidesContainer.parentNode.insertBefore(main, slidesContainer);
     main.appendChild(slidesContainer);
   }
 }
 
+// Improve keyboard accessibility for tooltips and controls
+function improveKeyboardAccessibility() {
+  // Make tooltip triggers keyboard accessible
+  const tooltipTriggers = document.querySelectorAll('[data-tippy-content]:not([tabindex])');
+  tooltipTriggers.forEach(trigger => {
+    if (!trigger.getAttribute('tabindex') && trigger.tagName.toLowerCase() !== 'button' && trigger.tagName.toLowerCase() !== 'a') {
+      trigger.setAttribute('tabindex', '0');
+    }
+  });
+  
+  // Ensure slide menu button is properly labeled
+  const slideMenuButton = document.querySelector('.slide-menu-button');
+  if (slideMenuButton && !slideMenuButton.getAttribute('aria-label')) {
+    slideMenuButton.setAttribute('aria-label', 'Open slide navigation menu');
+  }
+  
+  // Add proper roles to slide controls
+  const slideControls = document.querySelectorAll('.reveal .controls button');
+  slideControls.forEach(control => {
+    if (!control.getAttribute('aria-label')) {
+      const classes = control.className;
+      if (classes.includes('navigate-left')) {
+        control.setAttribute('aria-label', 'Previous slide');
+      } else if (classes.includes('navigate-right')) {
+        control.setAttribute('aria-label', 'Next slide');  
+      } else if (classes.includes('navigate-up')) {
+        control.setAttribute('aria-label', 'Previous slide in vertical stack');
+      } else if (classes.includes('navigate-down')) {
+        control.setAttribute('aria-label', 'Next slide in vertical stack');
+      }
+    }
+  });
+}
+
 Reveal.on('ready', function() {
   addMainLandmark();
+  improveKeyboardAccessibility();
   scrollTerminals();
 });
 Reveal.on('slidechanged', scrollTerminals);
