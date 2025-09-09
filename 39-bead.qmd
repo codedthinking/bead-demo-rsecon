@@ -33,6 +33,49 @@ format:
               top: 1rem;
             }
             
+            /* Screen reader only content */
+            .sr-only {
+              position: absolute;
+              width: 1px;
+              height: 1px;
+              padding: 0;
+              margin: -1px;
+              overflow: hidden;
+              clip: rect(0, 0, 0, 0);
+              white-space: nowrap;
+              border: 0;
+            }
+            
+            /* Skip demo button styling */
+            .demo-skip-container {
+              position: fixed;
+              top: 10px;
+              right: 10px;
+              z-index: 1000;
+              background: rgba(255, 255, 255, 0.95);
+              padding: 10px;
+              border-radius: 5px;
+              box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            }
+            
+            .skip-demo-button {
+              padding: 8px 16px;
+              background: #007bff;
+              color: white;
+              border: none;
+              border-radius: 4px;
+              cursor: pointer;
+              font-size: 14px;
+              font-weight: 500;
+            }
+            
+            .skip-demo-button:hover,
+            .skip-demo-button:focus {
+              background: #0056b3;
+              outline: 3px solid #ffa500;
+              outline-offset: 2px;
+            }
+            
             /* Focus visibility for all interactive elements */
             :focus-visible {
               outline: 3px solid currentColor;
@@ -59,6 +102,17 @@ format:
               outline: 3px solid currentColor when focused;
             }
             
+            /* High contrast mode support */
+            @media (prefers-contrast: high) {
+              .skip-demo-button {
+                border: 2px solid currentColor;
+              }
+              
+              .demo-skip-container {
+                border: 2px solid currentColor;
+              }
+            }
+            
             /* Reduced motion support */
             @media (prefers-reduced-motion: reduce) {
               * {
@@ -80,11 +134,151 @@ format:
               .cursor {
                 animation: none !important;
               }
+              
+              /* Show all terminal content immediately */
+              .terminal * {
+                opacity: 1 !important;
+                visibility: visible !important;
+              }
+            }
+            
+            /* Ensure terminal content is readable by screen readers */
+            .terminal[role="log"] {
+              position: relative;
+            }
+            
+            /* Additional ARIA landmarks */
+            .reveal .slides {
+              role: main;
+              aria-label: "Presentation slides";
             }
             </style>
+            <script>
+            // Accessibility enhancements for bead demo presentation
+            (function() {
+              'use strict';
+              
+              // Wait for Reveal.js to be ready
+              function initAccessibility() {
+                if (typeof Reveal === 'undefined') {
+                  setTimeout(initAccessibility, 100);
+                  return;
+                }
+                
+                // Add skip link for demo section
+                const skipContainer = document.createElement('div');
+                skipContainer.className = 'demo-skip-container';
+                skipContainer.setAttribute('role', 'navigation');
+                skipContainer.setAttribute('aria-label', 'Demo navigation');
+                
+                // Check if we're entering the demo section (slides 24-177)
+                Reveal.on('slidechanged', function(event) {
+                  const slideNumber = event.indexh + 1;
+                  
+                  // Show skip link when entering demo section
+                  if (slideNumber === 24) {
+                    skipContainer.innerHTML = `
+                      <button class="skip-demo-button" 
+                              onclick="Reveal.slide(176)"
+                              aria-label="Skip terminal demo animation and jump to slide 176">
+                        Skip Demo Animation (Jump to Slide 177)
+                      </button>
+                      <span class="sr-only">
+                        Note: The following slides demonstrate a terminal interface with animated transitions.
+                        Screen reader users may prefer to skip to slide 177 for the content summary.
+                      </span>
+                    `;
+                    document.body.appendChild(skipContainer);
+                  } else if (slideNumber >= 177 || slideNumber < 24) {
+                    // Remove skip link when outside demo section
+                    if (skipContainer.parentNode) {
+                      skipContainer.parentNode.removeChild(skipContainer);
+                    }
+                  }
+                });
+                
+                // Add ARIA live region for terminal output
+                const slides = document.querySelectorAll('.slide.level3.top');
+                slides.forEach((slide, index) => {
+                  const terminal = slide.querySelector('.terminal');
+                  if (terminal) {
+                    // Make terminal content accessible
+                    terminal.setAttribute('role', 'log');
+                    terminal.setAttribute('aria-live', 'polite');
+                    terminal.setAttribute('aria-label', `Terminal demo step ${index + 1}`);
+                    
+                    // Add screen reader friendly description
+                    const description = document.createElement('div');
+                    description.className = 'sr-only';
+                    description.setAttribute('aria-live', 'polite');
+                    
+                    // Extract command and output for screen readers
+                    const commands = terminal.querySelectorAll('.command');
+                    const outputs = terminal.querySelectorAll('.output');
+                    
+                    let descText = 'Terminal commands: ';
+                    commands.forEach(cmd => {
+                      descText += cmd.textContent + '. ';
+                    });
+                    if (outputs.length > 0) {
+                      descText += 'Output: ';
+                      outputs.forEach(out => {
+                        descText += out.textContent + '. ';
+                      });
+                    }
+                    
+                    description.textContent = descText;
+                    slide.appendChild(description);
+                  }
+                });
+                
+                // Add keyboard navigation hints
+                document.addEventListener('keydown', function(e) {
+                  // Alt+S to skip demo section
+                  if (e.altKey && e.key === 's') {
+                    const currentSlide = Reveal.getIndices().h + 1;
+                    if (currentSlide >= 24 && currentSlide <= 177) {
+                      Reveal.slide(176);
+                      announceToScreenReader('Skipped to end of demo section');
+                    }
+                  }
+                });
+              }
+              
+              // Helper function to announce to screen readers
+              function announceToScreenReader(message) {
+                const announcement = document.createElement('div');
+                announcement.setAttribute('role', 'status');
+                announcement.setAttribute('aria-live', 'assertive');
+                announcement.className = 'sr-only';
+                announcement.textContent = message;
+                document.body.appendChild(announcement);
+                setTimeout(() => announcement.remove(), 1000);
+              }
+              
+              // Initialize when DOM is ready
+              if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', initAccessibility);
+              } else {
+                initAccessibility();
+              }
+            })();
+            </script>
     include-before-body:
         - text: |
             <a class="skip-link" href="#main">Skip to content</a>
+            <div class="sr-only" role="note">
+              <h1>Accessibility Information</h1>
+              <p>This presentation includes an animated terminal demonstration from slides 13 to 37.</p>
+              <p>Navigation options:</p>
+              <ul>
+                <li>Press Alt+S to skip the demo section when on slides 13-37</li>
+                <li>Use arrow keys for standard navigation</li>
+                <li>Press Escape to see slide overview</li>
+              </ul>
+              <p>The demo section simulates terminal commands with visual transitions. 
+                 Screen reader users may prefer to skip to slide 37 for the summary.</p>
+            </div>
     # logo: bead.zip.png
     footer: "bead"
     slide-number: true
