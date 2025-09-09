@@ -13,6 +13,7 @@ format:
     footer: "bead"
     slide-number: true
     self-contained: true
+    css: custom.css
 slide-level: 3
 ---
 
