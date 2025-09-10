@@ -1,5 +1,5 @@
 
-### The Editor Gives You One Week
+## The Editor Gives You One Week
 You need to:
 
 1. Address reviewer concerns about source data
@@ -7,7 +7,7 @@ You need to:
 3. Recreate Figure 1
 4. Submit within one week
 
-### But the Submission Was Months Ago
+## But the Submission Was Months Ago
 
 Research submitted months ago.
 
@@ -17,7 +17,7 @@ Different statistical methods now.
 
 > **First question**: How _exactly_ was Figure 1 produced?
 
-### Luckily, You Worked Reproducibly
+## Luckily, You Worked Reproducibly
 
 > `Figure 1 = code(data)`
 
@@ -29,7 +29,7 @@ Tagged commit at submission ✓
 
 > **But what about the data?**
 
-### Data is Also a the Result of a Computation
+## Data is Also a the Result of a Computation
 
 > `data₁ = code₂(data₂)`
 
@@ -41,13 +41,13 @@ Data transformed by wrangling/cleaning steps
 
 > **You want to reconstruct the chain of data provenance.**
 
-### A Real-World Data Pipeline
+## A Real-World Data Pipeline
 
 ![](images/Proc_LTS.png)
 
-## The Data Provenance Problem
+# The Data Provenance Problem
 
-### Why It Is Complex:
+## Why It Is Complex:
 
 |   |   |
 |---|---|
@@ -57,7 +57,7 @@ Data transformed by wrangling/cleaning steps
 | **Team dynamics** | People join, leave, change roles |
 
 
-### Existing Solutions
+## Existing Solutions
 
 |   |   |
 |---|---|
@@ -65,7 +65,7 @@ Data transformed by wrangling/cleaning steps
 | Data Version Control (DVC) | Only versions data. |
 | Orchestration Tools (Airflow, dbt, KNIME) | Language specific and too complex. |
 
-### bead
+## bead
 
 > **A command-line tool that packages code and data together in immutable snapshots, with all data dependencies declared explicitly.**
 
