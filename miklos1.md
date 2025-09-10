@@ -9,34 +9,37 @@ You need to:
 
 ### But the Submission Was Months Ago
 
-- Research submitted months ago
-- Team has been improving data cleaning since then
-    - Some team members left
-- Different statistical methods now
-- **First question**: How _exactly_ was Figure 1 produced?
+Research submitted months ago.
+
+Team has been improving data cleaning since then. Some team members left.
+
+Different statistical methods now. 
+
+> **First question**: How _exactly_ was Figure 1 produced?
 
 ### Luckily, You Worked Reproducibly
 
-:::{.center}
-`Figure 1 = code(data)`
-:::
+> `Figure 1 = code(data)`
 
-- Results depend on both algorithms and data
-- Code under version control (Git) ✓
-- Tagged commit at submission ✓
-- **But what about the data?**
+Results depend on both algorithms and data.
+
+Code under version control (Git) ✓
+
+Tagged commit at submission ✓
+
+> **But what about the data?**
 
 ### Data is Also a the Result of a Computation
 
-:::{.center}
-`data₁ = code₂(data₂)`
-:::
+> `data₁ = code₂(data₂)`
 
-- Data transformed by wrangling/cleaning steps
-    - countries dropped
-    - transformations applied
-    - feature engineering details
-- **Chain of data provenance**
+Data transformed by wrangling/cleaning steps
+
+- countries dropped
+- transformations applied
+- feature engineering details
+
+> **You want to reconstruct the chain of data provenance.**
 
 ### A Real-World Data Pipeline
 
@@ -64,7 +67,7 @@ You need to:
 
 ### bead
 
-> A command-line tool that packages code and data together in immutable snapshots, with all data dependencies declared explicitly.
+> **A command-line tool that packages code and data together in immutable snapshots, with all data dependencies declared explicitly.**
 
 
 # Demo Time
