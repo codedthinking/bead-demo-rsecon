@@ -5,6 +5,7 @@ author:
     - "Krisztián Fekete"
     - "Miklós Koren"
 date: 2025-09-10
+date-format: RSECon25
 format:
   revealjs:
     include-after-body:
