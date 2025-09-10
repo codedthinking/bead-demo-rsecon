@@ -1221,7 +1221,7 @@ demo: /demo/bead-box
 | Team Building Workshop | Diana   |
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420886649+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420306964+0000.zip.
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="cursor"></span></div>
   </div>
@@ -1240,7 +1240,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1270,7 +1270,7 @@ demo: /demo/bead-box
 | Team Building Workshop | Diana   |
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420886649+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420306964+0000.zip.
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="command">bead discard</span><span class="cursor"></span></div>
   </div>
@@ -1289,7 +1289,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1319,7 +1319,7 @@ demo: /demo/bead-box
 | Team Building Workshop | Diana   |
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420886649+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420306964+0000.zip.
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/sessions
@@ -1336,7 +1336,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1366,7 +1366,7 @@ demo: /demo/bead-box
 | Team Building Workshop | Diana   |
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420886649+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420306964+0000.zip.
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/sessions
@@ -1383,7 +1383,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1413,7 +1413,7 @@ demo: /demo/bead-box
 | Team Building Workshop | Diana   |
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420886649+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420306964+0000.zip.
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/sessions
@@ -1431,7 +1431,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1461,7 +1461,7 @@ demo: /demo/bead-box
 | Team Building Workshop | Diana   |
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420886649+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/sessions_20250910T150420306964+0000.zip.
 
 </span><span class="prompt">/demo/projects/sessions $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/sessions
@@ -1479,7 +1479,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1504,7 +1504,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1529,7 +1529,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1555,7 +1555,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1581,7 +1581,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1614,7 +1614,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1647,7 +1647,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1681,7 +1681,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1715,7 +1715,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1753,7 +1753,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1791,7 +1791,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1836,7 +1836,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1881,7 +1881,7 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-└── sessions_20250910T150420886649+0000.zip
+└── sessions_20250910T150420306964+0000.zip
 </pre>
     </div>
   </div>
@@ -1910,7 +1910,7 @@ demo: /demo/bead-box
 | solar      | sustainability          |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="cursor"></span></div>
   </div>
@@ -1929,8 +1929,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -1959,7 +1959,7 @@ demo: /demo/bead-box
 | solar      | sustainability          |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead discard</span><span class="cursor"></span></div>
   </div>
@@ -1978,8 +1978,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2008,7 +2008,7 @@ demo: /demo/bead-box
 | solar      | sustainability          |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/theme-aliases
@@ -2025,8 +2025,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2055,7 +2055,7 @@ demo: /demo/bead-box
 | solar      | sustainability          |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/theme-aliases
@@ -2072,8 +2072,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2102,7 +2102,7 @@ demo: /demo/bead-box
 | solar      | sustainability          |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/theme-aliases
@@ -2120,8 +2120,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2150,7 +2150,7 @@ demo: /demo/bead-box
 | solar      | sustainability          |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/theme-aliases
@@ -2168,8 +2168,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2194,8 +2194,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2220,8 +2220,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2247,8 +2247,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2274,8 +2274,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2308,8 +2308,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2342,8 +2342,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2377,8 +2377,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2412,8 +2412,8 @@ demo: /demo/bead-box
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2432,7 +2432,7 @@ demo: /demo/bead-box
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="cursor"></span></div>
@@ -2453,8 +2453,8 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2473,7 +2473,7 @@ Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span><span class="cursor"></span></div>
@@ -2494,8 +2494,8 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2514,11 +2514,11 @@ Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="cursor"></span></div>
@@ -2541,8 +2541,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2561,11 +2561,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span><span class="cursor"></span></div>
@@ -2588,8 +2588,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2608,11 +2608,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -2639,8 +2639,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2659,11 +2659,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -2690,8 +2690,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2710,11 +2710,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -2756,8 +2756,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2776,11 +2776,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -2822,8 +2822,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2842,11 +2842,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -2890,8 +2890,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2910,11 +2910,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -2958,8 +2958,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -2978,11 +2978,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3027,8 +3027,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3047,11 +3047,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3096,8 +3096,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3116,11 +3116,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3173,8 +3173,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3193,11 +3193,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3250,8 +3250,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3270,11 +3270,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3338,8 +3338,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3358,11 +3358,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3426,8 +3426,8 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3446,11 +3446,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3493,7 +3493,7 @@ Loading new data to theme-aliases ... Done
       \_____/
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="cursor"></span></div>
   </div>
@@ -3517,9 +3517,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3538,11 +3538,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3585,7 +3585,7 @@ Loading new data to theme-aliases ... Done
       \_____/
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead discard</span><span class="cursor"></span></div>
   </div>
@@ -3609,9 +3609,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3630,11 +3630,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3677,7 +3677,7 @@ Loading new data to theme-aliases ... Done
       \_____/
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/possible-tracks
@@ -3694,9 +3694,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3715,11 +3715,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3762,7 +3762,7 @@ Loading new data to theme-aliases ... Done
       \_____/
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/possible-tracks
@@ -3779,9 +3779,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3800,11 +3800,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3847,7 +3847,7 @@ Loading new data to theme-aliases ... Done
       \_____/
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/possible-tracks
@@ -3865,9 +3865,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3886,11 +3886,11 @@ Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd possible-tracks</span>
 <span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add sessions</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input add theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">cp -v /demo/files/run.sh .</span>
@@ -3933,7 +3933,7 @@ Loading new data to theme-aliases ... Done
       \_____/
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/possible-tracks
@@ -3951,9 +3951,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -3978,9 +3978,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4005,9 +4005,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4033,9 +4033,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4061,9 +4061,9 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4078,7 +4078,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="cursor"></span></div>
@@ -4098,9 +4098,9 @@ Extracted source into /demo/projects/theme-aliases
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4115,7 +4115,7 @@ Extracted source into /demo/projects/theme-aliases
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span><span class="cursor"></span></div>
@@ -4135,9 +4135,9 @@ Extracted source into /demo/projects/theme-aliases
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4152,7 +4152,7 @@ Extracted source into /demo/projects/theme-aliases
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4173,9 +4173,9 @@ Extracted source into /demo/projects/theme-aliases
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4190,7 +4190,7 @@ Extracted source into /demo/projects/theme-aliases
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4211,9 +4211,9 @@ Extracted source into /demo/projects/theme-aliases
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4228,7 +4228,7 @@ Extracted source into /demo/projects/theme-aliases
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4256,9 +4256,9 @@ Extracted source into /demo/projects/theme-aliases
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4273,7 +4273,7 @@ Extracted source into /demo/projects/theme-aliases
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4301,9 +4301,9 @@ Extracted source into /demo/projects/theme-aliases
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4318,7 +4318,7 @@ Extracted source into /demo/projects/theme-aliases
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4347,9 +4347,9 @@ Extracted source into /demo/projects/theme-aliases
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4364,7 +4364,7 @@ Extracted source into /demo/projects/theme-aliases
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4397,9 +4397,9 @@ EOF</span><span class="cursor"></span></div>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4414,7 +4414,7 @@ EOF</span><span class="cursor"></span></div>
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4448,9 +4448,9 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4465,7 +4465,7 @@ EOF</span>
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4499,9 +4499,9 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4516,7 +4516,7 @@ EOF</span>
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4560,9 +4560,9 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4577,7 +4577,7 @@ EOF</span>
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4621,9 +4621,9 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-└── theme-aliases_20250910T150620502609+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+└── theme-aliases_20250910T150620911398+0000.zip
 </pre>
     </div>
   </div>
@@ -4638,7 +4638,7 @@ EOF</span>
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4666,7 +4666,7 @@ EOF</span>
 | healthcare | healthcare              |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="cursor"></span></div>
   </div>
@@ -4685,10 +4685,10 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -4703,7 +4703,7 @@ EOF</span>
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4731,7 +4731,7 @@ EOF</span>
 | healthcare | healthcare              |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead discard</span><span class="cursor"></span></div>
   </div>
@@ -4750,10 +4750,10 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -4768,7 +4768,7 @@ EOF</span>
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4796,7 +4796,7 @@ EOF</span>
 | healthcare | healthcare              |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/theme-aliases
@@ -4813,10 +4813,10 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -4831,7 +4831,7 @@ EOF</span>
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4859,7 +4859,7 @@ EOF</span>
 | healthcare | healthcare              |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/theme-aliases
@@ -4876,10 +4876,10 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -4894,7 +4894,7 @@ EOF</span>
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4922,7 +4922,7 @@ EOF</span>
 | healthcare | healthcare              |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/theme-aliases
@@ -4940,10 +4940,10 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -4958,7 +4958,7 @@ EOF</span>
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: New version of theme-aliases bead.</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit theme-aliases --review</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620502609+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T150620911398+0000.zip ... OK
 Extracted source into /demo/projects/theme-aliases
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">cd theme-aliases</span>
@@ -4986,7 +4986,7 @@ EOF</span>
 | healthcare | healthcare              |
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead save</span>
-<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip.
+<span class="output">Successfully stored bead at /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip.
 
 </span><span class="prompt">/demo/projects/theme-aliases $ </span><span class="command">bead discard</span>
 <span class="output">Deleted workspace /demo/projects/theme-aliases
@@ -5004,10 +5004,10 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5032,10 +5032,10 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5060,10 +5060,10 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5089,10 +5089,10 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5118,10 +5118,10 @@ EOF</span>
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5136,7 +5136,7 @@ EOF</span>
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5157,10 +5157,10 @@ Input data not loaded, update if needed and load manually
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5175,7 +5175,7 @@ Input data not loaded, update if needed and load manually
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5196,10 +5196,10 @@ Input data not loaded, update if needed and load manually
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5214,7 +5214,7 @@ Input data not loaded, update if needed and load manually
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5236,10 +5236,10 @@ Input data not loaded, update if needed and load manually
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5254,7 +5254,7 @@ Input data not loaded, update if needed and load manually
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5276,10 +5276,10 @@ Input data not loaded, update if needed and load manually
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5294,7 +5294,7 @@ Input data not loaded, update if needed and load manually
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5331,10 +5331,10 @@ Input data not loaded, update if needed and load manually
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5349,7 +5349,7 @@ Input data not loaded, update if needed and load manually
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5386,10 +5386,10 @@ Input data not loaded, update if needed and load manually
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5404,7 +5404,7 @@ Input data not loaded, update if needed and load manually
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5431,15 +5431,15 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
@@ -5461,10 +5461,10 @@ You can &quot;load&quot; or &quot;update&quot; them manually.
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5479,7 +5479,7 @@ You can &quot;load&quot; or &quot;update&quot; them manually.
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5506,15 +5506,15 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
@@ -5536,10 +5536,10 @@ You can &quot;load&quot; or &quot;update&quot; them manually.
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5554,7 +5554,7 @@ You can &quot;load&quot; or &quot;update&quot; them manually.
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5581,21 +5581,21 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="cursor"></span></div>
@@ -5617,10 +5617,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5635,7 +5635,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5662,21 +5662,21 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span><span class="cursor"></span></div>
@@ -5698,10 +5698,10 @@ Loading new data to theme-aliases ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5716,7 +5716,7 @@ Loading new data to theme-aliases ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5743,25 +5743,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -5786,10 +5786,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5804,7 +5804,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5831,25 +5831,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -5874,10 +5874,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5892,7 +5892,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -5919,25 +5919,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -5964,10 +5964,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -5982,7 +5982,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -6009,25 +6009,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -6054,10 +6054,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6072,7 +6072,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -6099,25 +6099,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -6153,10 +6153,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6171,7 +6171,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -6198,25 +6198,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -6252,10 +6252,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6270,7 +6270,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -6297,25 +6297,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -6352,10 +6352,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6370,7 +6370,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -6397,25 +6397,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -6452,10 +6452,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6470,7 +6470,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -6497,25 +6497,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -6545,10 +6545,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6563,7 +6563,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -6590,25 +6590,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -6638,10 +6638,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6656,7 +6656,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -6683,25 +6683,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -6732,10 +6732,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6750,7 +6750,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: Use the improved input to re-classify sessions</span>
 <span class="prompt">/demo/projects $ </span><span class="command">bead edit possible-tracks</span>
-<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020490163+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/possible-tracks_20250910T151020873645+0000.zip ... OK
 Extracted source into /demo/projects/possible-tracks
 Input data not loaded, update if needed and load manually
 
@@ -6777,25 +6777,25 @@ Inputs:
 
 input/sessions
 	Status:      **NOT LOADED**
-	Bead:        sessions # 20250910T150420886649+0000
+	Bead:        sessions # 20250910T150420306964+0000
 	Box[es]:
-	 * -r demo # 20250910T150420886649+0000
+	 * -r demo # 20250910T150420306964+0000
 
 input/theme-aliases
 	Status:      **NOT LOADED**
-	Bead:        theme-aliases # 20250910T150620502609+0000
+	Bead:        theme-aliases # 20250910T150620911398+0000
 	Box[es]:
-	 * -r demo # 20250910T150620502609+0000
+	 * -r demo # 20250910T150620911398+0000
 
 Some inputs are currently not loaded.
 You can &quot;load&quot; or &quot;update&quot; them manually.
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input update theme-aliases</span>
-<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300218788+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/theme-aliases_20250910T151300589642+0000.zip ... OK
 Loading new data to theme-aliases ... Done
 
 </span><span class="prompt">/demo/projects/possible-tracks $ </span><span class="command">bead input load</span>
-<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420886649+0000.zip ... OK
+<span class="output">Verifying archive /demo/bead-box/sessions_20250910T150420306964+0000.zip ... OK
 Loading new data to sessions ... Done
 &quot;theme-aliases&quot; is already loaded - skipping
 
@@ -6826,10 +6826,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6854,10 +6854,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6882,10 +6882,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6911,10 +6911,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6940,10 +6940,10 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── sessions_20250910T150420886649+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── sessions_20250910T150420306964+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6970,9 +6970,9 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -6987,7 +6987,7 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: 🖼️ Visual Overview</span>
 <span class="prompt">/demo/projects $ </span><span class="command">rm /demo/bead-box/sessions*</span>
-<span class="prompt">/demo/projects $ </span><span class="command">bead box sync</span><span class="cursor"></span></div>
+<span class="prompt">/demo/projects $ </span><span class="command">bead web color svg session-themes.svg</span><span class="cursor"></span></div>
   </div>
 
   <div class="bottom-content">
@@ -6999,9 +6999,9 @@ Loading new data to sessions ... Done
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -7016,81 +7016,11 @@ Loading new data to sessions ... Done
   <div class="top-content">
 <div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: 🖼️ Visual Overview</span>
 <span class="prompt">/demo/projects $ </span><span class="command">rm /demo/bead-box/sessions*</span>
-<span class="prompt">/demo/projects $ </span><span class="command">bead box sync</span>
-<span class="output">Syncing box &quot;demo&quot; at /demo/bead-box
-  ✓ Success
-
-</span><span class="prompt">/demo/projects $ </span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/projects
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: 🖼️ Visual Overview</span>
-<span class="prompt">/demo/projects $ </span><span class="command">rm /demo/bead-box/sessions*</span>
-<span class="prompt">/demo/projects $ </span><span class="command">bead box sync</span>
-<span class="output">Syncing box &quot;demo&quot; at /demo/bead-box
-  ✓ Success
-
-</span><span class="prompt">/demo/projects $ </span><span class="command">bead web color svg session-themes.svg</span><span class="cursor"></span></div>
-  </div>
-
-  <div class="bottom-content">
-    <div class="bottom-left">
-<pre class="fs-tree">
-/demo/projects
-</pre>
-    </div>
-    <div class="bottom-right">
-<pre class="fs-tree">
-/demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
-</pre>
-    </div>
-  </div>
-</div>
-```
-
-
-### {.top}
-
-```{=html}
-<div class="top-bottom-layout">
-  <div class="top-content">
-<div class="terminal"><span class="prompt">/demo/projects $ </span><span class="command">: 🖼️ Visual Overview</span>
-<span class="prompt">/demo/projects $ </span><span class="command">rm /demo/bead-box/sessions*</span>
-<span class="prompt">/demo/projects $ </span><span class="command">bead box sync</span>
-<span class="output">Syncing box &quot;demo&quot; at /demo/bead-box
-  ✓ Success
-
-</span><span class="prompt">/demo/projects $ </span><span class="command">bead web color svg session-themes.svg</span>
+<span class="prompt">/demo/projects $ </span><span class="command">bead web color svg session-themes.svg</span>
 <span class="output">
-Loaded bead 1 (demo : theme-aliases @ 20250910T150620502609+0000)              
-Loaded bead 2 (demo : possible-tracks @ 20250910T151020490163+0000)            
-Loaded bead 3 (demo : theme-aliases @ 20250910T151300218788+0000)              
+Loaded bead 1 (demo : theme-aliases @ 20250910T151300589642+0000)              
+Loaded bead 2 (demo : possible-tracks @ 20250910T151020873645+0000)            
+Loaded bead 3 (demo : theme-aliases @ 20250910T150620911398+0000)              
                                                                                 
 Loaded 3 beads
 Creating SVG: session-themes.svg
@@ -7108,9 +7038,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -7139,9 +7069,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -7167,9 +7097,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -7196,9 +7126,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -7225,9 +7155,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -7244,12 +7174,12 @@ Creating SVG: session-themes.svg
 <span class="prompt">/demo/projects $ </span><span class="command">unzip -v /demo/bead-box/possible-tracks_*.zip | tail -8</span>
 <span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
 --------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-05 13:37 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-05 13:37 e1c1f982  code/run.sh
-     941  Defl:N      481  49% 2025-09-10 15:10 b6fe215c  meta/bead
-     470  Defl:N      299  36% 2025-09-10 15:10 5e951697  meta/manifest
+     181  Defl:N      139  23% 2025-09-10 06:15 af1dd6c0  data/classified_sessions.csv
+     370  Defl:N      232  37% 2025-09-10 06:15 e1c1f982  code/run.sh
+     941  Defl:N      484  49% 2025-09-10 15:10 72980d26  meta/bead
+     470  Defl:N      299  36% 2025-09-10 15:10 3e9f906f  meta/manifest
 --------          -------  ---                            -------
-    1962             1151  41%                            4 files
+    1962             1154  41%                            4 files
 
 </span><span class="prompt">/demo/projects $ </span><span class="cursor"></span></div>
   </div>
@@ -7264,9 +7194,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -7283,12 +7213,12 @@ Creating SVG: session-themes.svg
 <span class="prompt">/demo/projects $ </span><span class="command">unzip -v /demo/bead-box/possible-tracks_*.zip | tail -8</span>
 <span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
 --------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-05 13:37 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-05 13:37 e1c1f982  code/run.sh
-     941  Defl:N      481  49% 2025-09-10 15:10 b6fe215c  meta/bead
-     470  Defl:N      299  36% 2025-09-10 15:10 5e951697  meta/manifest
+     181  Defl:N      139  23% 2025-09-10 06:15 af1dd6c0  data/classified_sessions.csv
+     370  Defl:N      232  37% 2025-09-10 06:15 e1c1f982  code/run.sh
+     941  Defl:N      484  49% 2025-09-10 15:10 72980d26  meta/bead
+     470  Defl:N      299  36% 2025-09-10 15:10 3e9f906f  meta/manifest
 --------          -------  ---                            -------
-    1962             1151  41%                            4 files
+    1962             1154  41%                            4 files
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">: end of demo</span><span class="cursor"></span></div>
   </div>
@@ -7303,9 +7233,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
@@ -7322,12 +7252,12 @@ Creating SVG: session-themes.svg
 <span class="prompt">/demo/projects $ </span><span class="command">unzip -v /demo/bead-box/possible-tracks_*.zip | tail -8</span>
 <span class="output"> Length   Method    Size  Cmpr    Date    Time   CRC-32   Name
 --------  ------  ------- ---- ---------- ----- --------  ----
-     181  Defl:N      139  23% 2025-09-05 13:37 af1dd6c0  data/classified_sessions.csv
-     370  Defl:N      232  37% 2025-09-05 13:37 e1c1f982  code/run.sh
-     941  Defl:N      481  49% 2025-09-10 15:10 b6fe215c  meta/bead
-     470  Defl:N      299  36% 2025-09-10 15:10 5e951697  meta/manifest
+     181  Defl:N      139  23% 2025-09-10 06:15 af1dd6c0  data/classified_sessions.csv
+     370  Defl:N      232  37% 2025-09-10 06:15 e1c1f982  code/run.sh
+     941  Defl:N      484  49% 2025-09-10 15:10 72980d26  meta/bead
+     470  Defl:N      299  36% 2025-09-10 15:10 3e9f906f  meta/manifest
 --------          -------  ---                            -------
-    1962             1151  41%                            4 files
+    1962             1154  41%                            4 files
 
 </span><span class="prompt">/demo/projects $ </span><span class="command">: end of demo</span>
 <span class="prompt">/demo/projects $ </span><span class="cursor"></span></div>
@@ -7343,9 +7273,9 @@ Creating SVG: session-themes.svg
     <div class="bottom-right">
 <pre class="fs-tree">
 /demo/bead-box
-├── possible-tracks_20250910T151020490163+0000.zip
-├── theme-aliases_20250910T150620502609+0000.zip
-└── theme-aliases_20250910T151300218788+0000.zip
+├── possible-tracks_20250910T151020873645+0000.zip
+├── theme-aliases_20250910T150620911398+0000.zip
+└── theme-aliases_20250910T151300589642+0000.zip
 </pre>
     </div>
   </div>
