@@ -104,7 +104,6 @@ clear
 
 : 🖼️ Visual Overview
 rm /demo/bead-box/sessions*
-bead box sync
 bead web color svg session-themes.svg
 
 ### session-themes.svg
