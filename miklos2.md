@@ -1,4 +1,20 @@
 # Case Study From Our Research Lab
+
+## What bead Does NOT Do
+
+### Not a code runner
+- You run your own code
+- Python, R, Stata, SQL - doesn't matter
+
+### Not a file sharing system
+- File system stores your files
+- Sharing it with others is your responsibility (but can be easily automated)
+
+### Only requirement:
+- Works with flat files on file system
+- Files not too big (20GB works fine)
+
+
 ## Case Study From Our Research Lab
 - Used since 2017 in our research groups: CEU MicroData, MACROMANAGERS.eu 
     - internally
