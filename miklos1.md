@@ -9,8 +9,6 @@ You need to:
 
 ## But the Submission Was Months Ago
 
-Research submitted months ago.
-
 Team has been improving data cleaning since then. Some team members left.
 
 Different statistical methods now. 
